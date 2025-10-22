@@ -1,0 +1,21 @@
+{
+  "id": "squat_hold_and_pulses",
+  "move": "Squat hold and pulses",
+  "description": "Isometric squat hold followed by small controlled pulses.",
+  "detailed_description": "This challenging holding position and dynamic exercise targets quadriceps endurance, glute turning on, and mental toughness while building the sustained muscle strength needed for deep skateboarding stances. Begin in a squat position with feet hip-width apart, knees tracking in line with your toes, and weight evenly distributed across both feet. Lower to approximately ninety degrees or your comfortable depth and hold this position while maintaining proper alignment with chest up and core engaged. After the prescribed hold time, perform small pulsing movements up and down within a 2-3 inch range at the bottom of the squat position. This exercise specifically develops the muscular endurance and strength in the exact positions used during skateboarding, particularly for transition skating, manual pads, and maintaining low stances during technical maneuvers. The holding position hold builds time under tension strength while the pulses add a dynamic component that challenges muscle fibers differently. Focus on maintaining proper form throughout and breathing steadily during the hold phase.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "none",
+  "target_muscles": [
+    "quadriceps",
+    "glutes",
+    "core"
+  ],
+  "video_file": "squat_hold_and_pulses",
+  "json_file": "squat_hold_and_pulses.json",
+  "duration_per_rep": "20-45 second hold plus 10-20 pulses",
+  "skateboarding_benefit": "builds endurance for deep skating stances and transition riding",
+  "beginner": "20 s hold + 10 pulses",
+  "intermediate": "30 s hold + 15 pulses",
+  "advanced": "45 s hold + 20 pulses"
+}

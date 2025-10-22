@@ -1,0 +1,22 @@
+{
+  "id": "banded_abductors_with_kickouts",
+  "move": "Banded abductors with kickouts",
+  "description": "Standing band abduction followed by a small lateral kickout.",
+  "detailed_description": "This dynamic turning on exercise targets the outer hip muscles and ankle stabilizers through a two-phase movement that mimics the lateral control patterns essential for skateboarding balance and board manipulation. Begin standing with a resistance band around your ankles or lower legs, then lift one leg straight out to the side against the band resistance in a controlled abduction movement. From the peak abduction position, add a small explosive kickout or flick of the foot before returning to the starting position with control. The initial abduction phase activates the outer glute muscles and outer hip muscles, while the kickout component engages the ankle stabilizers and enhances body awareness awareness. This combination directly translates to improved lateral balance control and the quick ankle adjustments needed for precise board manipulation during skateboarding. The exercise also helps develop the reactive strength and coordination needed for catching balance when landing tricks or navigating challenging terrain. Focus on maintaining stable posture in the standing leg while executing crisp, controlled movements in the working leg.",
+  "section": "Warm-up",
+  "exercise_type": "strength",
+  "equipment": "resistance band",
+  "target_muscles": [
+    "hip abductors",
+    "ankle stabilizers",
+    "single-leg stability muscles",
+    "core"
+  ],
+  "video_file": "banded_abductors_with_kickouts",
+  "json_file": "banded_abductors_with_kickouts.json",
+  "duration_per_rep": "2-3 seconds",
+  "skateboarding_benefit": "improves lateral balance control and quick ankle adjustments for precise board manipulation",
+  "beginner": "10 reps each side (1 round)",
+  "intermediate": "12 reps each side (2 rounds)",
+  "advanced": "15 reps each side (2 rounds)"
+}

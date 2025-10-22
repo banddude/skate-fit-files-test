@@ -1,0 +1,22 @@
+{
+  "id": "banded_glute_bridge_abductors",
+  "move": "Banded Glute Bridge Abductors",
+  "description": "Mini-band above knees; press knees out and return under control.",
+  "detailed_description": "This dual-purpose exercise activates both the main glute muscles through the bridge component and the outer glute muscles through the abduction movement, creating comprehensive hip stability essential for skateboard control and injury prevention. Begin in a standard glute bridge position with a resistance band positioned just above your knees, then lift your hips while simultaneously pressing your knees outward against the band resistance. The combination challenges your hip muscles to work in multiple planes simultaneously, mimicking the complex demands of skateboarding where hip stability is required in various positions and orientations. This exercise is particularly effective for addressing the hip abductor weakness common in skateboarders, which can lead to knee injuries and poor lateral balance control. The bridge position also counters hip flexor tightness while the abduction component strengthens the muscles responsible for controlling knee tracking and lateral stability during skateboarding maneuvers. Focus on maintaining the bridge height while controlling both the outward and inward phases of the abduction movement.",
+  "section": "Warm-up",
+  "exercise_type": "strength",
+  "equipment": "resistance band",
+  "target_muscles": [
+    "glutes",
+    "hip abductors",
+    "core",
+    "hamstrings"
+  ],
+  "video_file": "banded_glute_bridge_abductors",
+  "json_file": "banded_glute_bridge_abductors.json",
+  "duration_per_rep": "2-3 seconds",
+  "skateboarding_benefit": "develops comprehensive hip stability for better board control and injury prevention",
+  "beginner": "15 reps (1 round)",
+  "intermediate": "15\u201320 reps (2 rounds)",
+  "advanced": "20\u201325 reps (2 rounds)"
+}

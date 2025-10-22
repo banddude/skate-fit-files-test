@@ -1,0 +1,22 @@
+{
+  "id": "banded_side_jumps",
+  "move": "Banded side jumps",
+  "description": "Lateral jumps with resistance band, mimicking the side-to-side popping motion used in skateboard control",
+  "detailed_description": "This dynamic exercise replicates the lateral explosive movements essential for board manipulation and trick execution. Begin with a resistance band around your ankles, then perform explosive side-to-side jumps while maintaining the band tension throughout the movement. The lateral jumping motion directly mimics the weight shift and explosive power needed for skateboard pops, kickflips, and heel flips where you must generate force while maintaining board control. The band resistance adds challenge to both the takeoff and landing phases, building the hip abductor strength and lateral stability crucial for precise board manipulation. This exercise develops the quick directional changes and explosive lateral power that separate advanced skaters from beginners. The movement pattern also improves proprioception and balance reactions essential for catching tricks and maintaining control during complex maneuvers. Focus on explosive takeoffs and controlled landings while maintaining constant band tension to maximize the skateboarding-specific benefits.",
+  "section": "Warm-up",
+  "exercise_type": "strength",
+  "equipment": "resistance band",
+  "target_muscles": [
+    "hip abductors",
+    "glutes",
+    "calves",
+    "core"
+  ],
+  "video_file": "banded_side_jumps",
+  "json_file": "banded_side_jumps.json",
+  "duration_per_rep": "explosive jump with controlled landing",
+  "skateboarding_benefit": "develops lateral explosive power for trick execution and board manipulation",
+  "beginner": "15 total jumps (2 rounds)",
+  "intermediate": "18 total jumps (2 rounds)",
+  "advanced": "20 total jumps (3 rounds)"
+}

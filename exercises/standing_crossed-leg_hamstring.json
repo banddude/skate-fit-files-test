@@ -1,0 +1,21 @@
+{
+  "id": "standing_crossed-leg_hamstring",
+  "move": "Standing crossed-leg hamstring",
+  "description": "Cross one foot in front of the other, hinge at the hips and lean forward over the front leg to stretch it",
+  "detailed_description": "This functional hamstring stretch combines hip hinge mechanics with targeted back muscles lengthening, making it particularly relevant for skateboarders who need both flexibility and movement pattern reinforcement. Begin standing with feet hip-width apart, then cross one foot in front of the other, keeping both feet planted firmly on the ground. Initiate the movement by pushing your hips backward and hinging forward from the hips, lowering your torso toward the front leg while keeping your spine neutral and shoulders back. The crossed-leg position isolates the hamstring stretch to the front leg while challenging balance and proprioception. This stretch addresses the hamstring tightness common in skateboarders while reinforcing the hip hinge pattern essential for proper movement mechanics in skateboarding and daily activities. The standing position also incorporates functional balance challenges that translate directly to improved board control and stability. Focus on maintaining proper spinal alignment and avoid rounding your back as you hinge forward.",
+  "section": "Cool-down",
+  "exercise_type": "stretch",
+  "equipment": "none",
+  "target_muscles": [
+    "hamstrings",
+    "calves",
+    "lower back"
+  ],
+  "video_file": "standing_crossed_leg_hamstring",
+  "json_file": "standing_crossed_leg_hamstring.json",
+  "duration_per_rep": "hold 15-45 seconds",
+  "skateboarding_benefit": "addresses hamstring tightness while improving functional balance",
+  "beginner": "Hold 15 s/side",
+  "intermediate": "Hold 30 s/side",
+  "advanced": "Hold 45 s/side"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ankle_circles",
+  "move": "Ankle circles",
+  "description": "Sit or stand, lift one foot off the ground, rotate the ankle in big circles clockwise then counterclockwise",
+  "detailed_description": "This mobility exercise targets ankle joint range of motion and activates the small foot muscles crucial for skateboard control. Begin in a seated or standing position with good posture, then lift one foot slightly off the ground. Create large, controlled circular motions with your ankle, focusing on moving through the full range of motion in both directions. Start with slow, deliberate circles to warm up the joint capsule and surrounding tissues. This exercise is particularly important for skateboarders as ankle mobility directly impacts board feel, push-off efficiency, and landing mechanics. Restricted ankle mobility can lead to bad movement patterns up the your whole body, affecting knee and hip function. Take your time with each circle, emphasizing the end ranges of pulling your toes up toward your shins, pointing your toes down, turning your foot inward, and turning your foot outward to maintain optimal joint health and skateboarding performance.",
+  "section": "Warm-up",
+  "exercise_type": "mobility",
+  "equipment": "none",
+  "target_muscles": [
+    "ankle stabilizers",
+    "calves",
+    "foot muscles"
+  ],
+  "video_file": "ankle_circles",
+  "json_file": "ankle_circles.json",
+  "duration_per_rep": "2-3 seconds per circle",
+  "skateboarding_benefit": "improves board feel and push-off efficiency",
+  "beginner": "10 each direction/foot (1 round)",
+  "intermediate": "10 each direction/foot (2 rounds)",
+  "advanced": "12 each direction/foot (2 rounds)"
+}

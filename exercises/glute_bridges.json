@@ -1,0 +1,21 @@
+{
+  "id": "glute_bridges",
+  "move": "Glute bridges",
+  "description": "Lie on your back with knees bent, lift hips by squeezing your glutes until your body forms a straight line",
+  "detailed_description": "This foundational movement targets the glutes, hamstrings, and core while improving pushing your hips forward mobility. Begin lying on your back with knees bent at approximately ninety degrees, feet flat on the floor hip-width apart, and arms relaxed by your sides. Initiate the movement by squeezing your glutes and driving your heels into the floor to lift your hips toward the ceiling. Create a straight line from your knees to your shoulders at the top position, avoiding overarching your lower back. This exercise strengthens the back muscles muscles crucial for powerful skateboarding movements like ollies and transitions while counteracting the hip flexor tightness common from prolonged sitting. Focus on quality over speed - pause briefly at the top of each repetition and lower with control to maximize glute turning on.",
+  "section": "Warm-up",
+  "exercise_type": "strength",
+  "equipment": "none",
+  "target_muscles": [
+    "glutes",
+    "hamstrings",
+    "core"
+  ],
+  "video_file": "glute_bridges",
+  "json_file": "glute_bridges.json",
+  "duration_per_rep": "2-3 seconds",
+  "skateboarding_benefit": "builds power for ollies and transitions",
+  "beginner": "12 reps (1 round)",
+  "intermediate": "12 reps (2 rounds)",
+  "advanced": "15 reps (2 rounds)"
+}

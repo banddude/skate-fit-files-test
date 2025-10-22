@@ -1,0 +1,21 @@
+{
+  "id": "calf_and_ankle_stretch",
+  "move": "Calf and ankle stretch",
+  "description": "Comprehensive calf and ankle stretch to release tension from skateboarding stance and push-offs",
+  "detailed_description": "This comprehensive post-skate stretch targets both the calf muscles and ankle joint mobility, addressing the specific tightness patterns that develop from skateboarding's demands on the lower leg complex. The stretch can be performed in various positions - seated with legs extended, standing with one foot elevated, or in a runner's lunge position - focusing on both calf muscles while improving ankle pulling your toes up toward your shins range of motion. This stretch is essential for skateboarding recovery as both the calves and ankle joints work continuously during skating for push-offs, balance adjustments, and landing control. The comprehensive approach addresses all aspects of the lower leg tightness that can develop from prolonged skateboarding sessions, helping maintain optimal ankle mobility and preventing the development of compensatory movement patterns. Regular performance of this stretch helps prevent calf cramps, reduces Achilles tendon tension, and maintains the ankle range of motion needed for optimal skateboarding stance and performance. Focus on gentle, sustained stretching with deep breathing to maximize the relaxation and recovery benefits.",
+  "section": "Cool-down",
+  "exercise_type": "stretch",
+  "equipment": "none",
+  "target_muscles": [
+    "calves",
+    "achilles tendon",
+    "ankle stabilizers"
+  ],
+  "video_file": "calf_and_ankle_stretch",
+  "json_file": "calf_and_ankle_stretch.json",
+  "duration_per_rep": "hold 20-45 seconds",
+  "skateboarding_benefit": "comprehensive recovery for lower leg tension and ankle mobility",
+  "beginner": "Hold 20 s/side",
+  "intermediate": "Hold 30 s/side",
+  "advanced": "Hold 45 s/side"
+}

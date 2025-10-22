@@ -1,0 +1,22 @@
+{
+  "id": "sitting_bench_pigeon_and_knee_hugs",
+  "move": "Sitting bench pigeon and knee hugs",
+  "description": "Seated figure-four stretch on a bench, then finish with knee hug stretch.",
+  "detailed_description": "This comprehensive cool-down stretch combines hip external rotator stretching with hip flexor mobility in a comfortable seated position ideal for post-workout recovery. Begin seated on a bench or chair with good posture, then place one ankle across the opposite thigh in a figure-four position. Gently lean forward from your hips to increase the stretch through the outer hip and glutes of the crossed leg, maintaining a neutral spine throughout. After holding the pigeon stretch, transition to pulling the same knee toward your chest for a knee hug stretch that targets the glutes and lower back. This combination addresses the key areas of tightness that develop from skateboarding's asymmetrical stance patterns and crouched positions. The seated position makes these stretches accessible and comfortable while providing stable support for deeper relaxation and muscle lengthening. This stretch sequence is particularly effective for releasing tension in the hips and lower back after intense skateboarding sessions or strength training. Focus on breathing deeply and allowing gravity to assist the stretch rather than forcing the range of motion.",
+  "section": "Cool-down",
+  "exercise_type": "stretch",
+  "equipment": "bench or chair",
+  "target_muscles": [
+    "glutes",
+    "hip rotators",
+    "hip flexors",
+    "lower back"
+  ],
+  "video_file": "sitting_bench_pigeons_and_knee_hugs",
+  "json_file": "sitting_bench_pigeons_and_knee_hugs.json",
+  "duration_per_rep": "hold 20-45 seconds each position",
+  "skateboarding_benefit": "releases hip tension from asymmetrical skating stance and promotes recovery",
+  "beginner": "Hold 20 s/side",
+  "intermediate": "Hold 30 s/side",
+  "advanced": "Hold 45 s/side"
+}

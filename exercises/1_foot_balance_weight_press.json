@@ -1,0 +1,21 @@
+{
+  "id": "1_foot_balance_weight_press",
+  "move": "1 foot balance weight press",
+  "description": "Single-leg stance, alternating overhead presses.",
+  "detailed_description": "This challenging combination exercise targets single-leg stability, core strength, and shoulder mobility while integrating multiple movement demands that directly translate to improved skateboarding balance and control. Begin standing on one leg while holding dumbbells in both hands at shoulder height, engaging your core and focusing on a fixed point for balance. Perform alternating overhead presses while maintaining the single-leg stance, pressing one dumbbell overhead while keeping the other at shoulder height. The single-leg position challenges your balance system and forces deep stabilizer muscle turning on throughout your your whole body, while the overhead pressing motion develops functional upper body strength and core stability. This exercise specifically improves the ability to maintain balance while performing complex movements, essential for skateboarding tricks that require precise balance control during dynamic upper body movements. The single-side stance also builds the ankle, knee, and hip stability crucial for single-leg skateboarding maneuvers and landing control. Focus on maintaining steady posture and avoid compensating with excessive upper body movement or allowing the standing knee to collapse inward.",
+  "section": "Main",
+  "exercise_type": "balance",
+  "equipment": "dumbbells",
+  "target_muscles": [
+    "single-leg stability muscles",
+    "core",
+    "shoulders"
+  ],
+  "video_file": "1_foot_balance_weight_press",
+  "json_file": "1_foot_balance_weight_press.json",
+  "duration_per_rep": "2-3 seconds per press",
+  "skateboarding_benefit": "improves balance during complex movements and trick execution",
+  "beginner": "8 reps/side (2\u00d75\u201310 lb)",
+  "intermediate": "10 reps/side (2\u00d710\u201315 lb)",
+  "advanced": "12 reps/side (2\u00d715\u201320 lb)"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weighted_single-leg_balance_hold",
+  "move": "Weighted single-leg balance hold",
+  "description": "Stand on one leg holding weights in each hand, keep torso upright and core engaged for the duration",
+  "detailed_description": "This static stability exercise develops the deep balance muscles throughout the your whole body while improving body awareness awareness crucial for skateboard control and landing mechanics. Stand on one leg while holding dumbbells in both hands, maintaining an upright torso position with shoulders square and core fully engaged. The added weight challenges your balance system by raising the center of gravity and requiring greater muscular working together to maintain stability. This exercise directly translates to improved board control during stationary balance challenges, manual pads, and one-footed skating scenarios common in street and transition skateboarding. The sustained muscle turning on develops the postural endurance needed for long skating sessions while enhancing the automatic balance reactions essential for preventing falls and injuries. Focus on maintaining steady breathing and avoid excessive swaying or bad movement patterns - small adjustments are normal and beneficial for training your balance system.",
+  "section": "Main",
+  "exercise_type": "balance",
+  "equipment": "dumbbells",
+  "target_muscles": [
+    "single-leg stability muscles",
+    "core",
+    "postural muscles"
+  ],
+  "video_file": "weighted_single_leg_balance_hold",
+  "json_file": "weighted_single_leg_balance_hold.json",
+  "duration_per_rep": "hold 20-45 seconds",
+  "skateboarding_benefit": "improves board control and landing stability",
+  "beginner": "20 s/side (2\u00d75 lb)",
+  "intermediate": "30 s/side (2\u00d710 lb)",
+  "advanced": "45 s/side (2\u00d715 lb)"
+}

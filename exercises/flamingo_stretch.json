@@ -1,0 +1,20 @@
+{
+  "id": "flamingo_stretch",
+  "move": "Flamingo stretch",
+  "description": "Standing quad stretch to release tension in the front of thighs from skateboarding stance",
+  "detailed_description": "This classic standing quadriceps stretch targets the front thigh muscles that often become tight from the bent-knee positions and explosive movements common in skateboarding. Stand on one leg and bend the other knee, grasping the ankle or foot behind you and gently pulling the heel toward your glutes while maintaining balance and proper alignment. Keep your knees close together and avoid arching your lower back excessively during the stretch. This stretch is essential for post-skate recovery as the quadriceps muscles work intensively during the crouched skateboarding stance, landing mechanics, and the explosive knee extension needed for ollies and jumps. Tight quadriceps can contribute to knee pain, altered movement patterns, and reduced hip mobility, making this stretch crucial for maintaining optimal lower body function and skateboarding performance. The standing balance component also challenges proprioception and single-leg stability, which provides additional benefits for skateboard control and balance. Focus on gentle, sustained stretching while maintaining steady balance on the supporting leg, using a wall or other support if needed to maintain proper form and maximize the stretch benefits.",
+  "section": "Cool-down",
+  "exercise_type": "stretch",
+  "equipment": "none",
+  "target_muscles": [
+    "quadriceps",
+    "hip flexors"
+  ],
+  "video_file": "flamingo_stretch",
+  "json_file": "flamingo_stretch.json",
+  "duration_per_rep": "hold 20-45 seconds",
+  "skateboarding_benefit": "releases quad tension from crouched skating stance for better hip mobility",
+  "beginner": "Hold 20 s/side",
+  "intermediate": "Hold 30 s/side",
+  "advanced": "Hold 45 s/side"
+}

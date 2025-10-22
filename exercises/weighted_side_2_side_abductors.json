@@ -1,0 +1,21 @@
+{
+  "id": "weighted_side_2_side_abductors",
+  "move": "Weighted side 2 side abductors",
+  "description": "Standing moving your leg out to the sides moving side-to-side with load.",
+  "detailed_description": "This dynamic moving your leg out to the side exercise targets the outer glute muscles, smaller outer glute muscles, and outer hip muscles while adding resistance and movement challenges that directly translate to improved skateboarding lateral control and stability. Begin standing with feet hip-width apart while holding dumbbells at your sides or a single weight in front of your chest. Step laterally to one side while simultaneously lifting the opposite leg out to the side against gravity and the added resistance, then step the lifted leg down and continue the lateral movement in that direction. The combination of stepping and abduction creates a functional movement pattern that strengthens the hip muscles while challenging balance and coordination. This exercise is particularly beneficial for skateboarders as it develops the lateral strength and control needed for carving, transitioning between obstacles, and maintaining balance during side-to-side weight shifts on the board. The added resistance increases the strength challenge while the continuous lateral movement builds endurance in the outer hip muscles. Focus on maintaining level hips and controlled movements throughout the exercise.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "dumbbells",
+  "target_muscles": [
+    "hip abductors",
+    "glutes",
+    "outer hip muscles"
+  ],
+  "video_file": "weighted_side_to_side_abductors",
+  "json_file": "weighted_side_to_side_abductors.json",
+  "duration_per_rep": "2-3 seconds per step",
+  "skateboarding_benefit": "develops lateral control for carving and side-to-side balance",
+  "beginner": "10 reps/side (light load)",
+  "intermediate": "12 reps/side (moderate load)",
+  "advanced": "15 reps/side (heavier load)"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "knee_hug_turns",
+  "move": "Knee hug turns",
+  "description": "Standing knee hug, rotate through the hip as you step and turn.",
+  "detailed_description": "This dynamic warm-up combines hip flexor mobility with rotational movement patterns that directly prepare the body for skateboarding's multi-directional demands. Begin standing tall, then lift one knee toward your chest while grasping your shin with both hands. As you hold the knee hug position, initiate a controlled rotation through your torso and hip, stepping the lifted leg across your body in a turning motion before placing it down. The movement activates front hip muscles, improves rotational mobility through the upper back, and challenges balance and coordination systems. This exercise specifically prepares skateboarders for the rotational components found in turns, transition skating, and trick execution where the body must coordinate upper and lower body rotation while maintaining balance. Focus on smooth, controlled movements rather than speed, allowing the hip and spine to gradually warm up and increase range of motion.",
+  "section": "Warm-up",
+  "exercise_type": "mobility",
+  "equipment": "none",
+  "target_muscles": [
+    "hip flexors",
+    "core",
+    "thoracic spine",
+    "single-leg stability muscles"
+  ],
+  "video_file": "knee_hug_turns",
+  "json_file": "knee_hug_turns.json",
+  "duration_per_rep": "4-5 seconds",
+  "skateboarding_benefit": "prepares body for rotational movements in tricks and transitions",
+  "beginner": "8\u201310 reps each side (1 round)",
+  "intermediate": "10 reps each side (2 rounds)",
+  "advanced": "12 reps each side (2 rounds)"
+}

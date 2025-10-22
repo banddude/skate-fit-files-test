@@ -1,0 +1,20 @@
+{
+  "id": "calf_raises",
+  "move": "Calf raises",
+  "description": "Rise up on your toes to strengthen calves and improve push-off power for skateboarding",
+  "detailed_description": "This fundamental lower leg strengthening exercise targets the calf muscles while improving push-off power and ankle stability essential for skateboarding propulsion and balance control. Begin standing with feet hip-width apart and slowly rise up onto your toes, lifting your heels as high as possible while maintaining balance and proper alignment. Hold briefly at the top position to maximize muscle turning on, then lower with control back to the starting position. This exercise directly develops the calf strength needed for powerful push-offs when propelling yourself forward on a skateboard, as well as the ankle stability required for precise board control and balance adjustments. Strong calves also contribute to better landing mechanics and shock absorption during jumps and trick landings. The controlled movement pattern builds both strength and endurance in the posterior lower leg muscles while improving body awareness awareness through the feet and ankles. Focus on full range of motion and avoid bouncing at the bottom position - smooth, controlled movement will maximize the strengthening benefits and improve the muscle coordination control needed for skateboarding performance.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "none",
+  "target_muscles": [
+    "calves",
+    "ankle stabilizers"
+  ],
+  "video_file": "calf_raises",
+  "json_file": "calf_raises.json",
+  "duration_per_rep": "2-3 seconds up, 1 second hold, 2 seconds down",
+  "skateboarding_benefit": "improves push-off power and ankle stability for board control",
+  "beginner": "12 reps",
+  "intermediate": "15 reps",
+  "advanced": "20 reps"
+}

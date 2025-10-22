@@ -1,0 +1,22 @@
+{
+  "id": "isometric_single_foot_squat_holds",
+  "move": "Isometric single foot squat holds",
+  "description": "Single-leg squat holds with assistance, developing unilateral strength and stability for advanced skateboarding balance",
+  "detailed_description": "This challenging isometric exercise develops the single-leg strength and stability essential for advanced skateboarding maneuvers including manuals, single-foot tricks, and complex balance challenges. Begin standing on one leg and lower into a partial squat position, holding this position for the prescribed time while using minimal assistance for balance as needed. The isometric hold builds time under tension strength in the exact muscle activation patterns used during skateboarding, particularly for maintaining deep stances and controlling the board during technical maneuvers. This exercise addresses the unilateral strength demands of skateboarding where each leg must be capable of supporting and controlling body weight independently. The single-leg nature also challenges proprioception and balance reactions that are crucial for skateboard control and injury prevention. The assisted component allows for progressive overload as your strength and balance improve, eventually building to unassisted single-leg squat holds. Focus on maintaining proper squat form and steady breathing while minimizing assistance to maximize the strength and balance benefits.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "wall or support for assistance",
+  "target_muscles": [
+    "quadriceps",
+    "glutes",
+    "single-leg stability muscles",
+    "core"
+  ],
+  "video_file": "isometric_single_foot_squat_holds",
+  "json_file": "isometric_single_foot_squat_holds.json",
+  "duration_per_rep": "8-12 second hold",
+  "skateboarding_benefit": "develops single-leg strength and stability for manuals and advanced balance tricks",
+  "beginner": "6 reps each leg, 6 sec hold (10 lb assistance)",
+  "intermediate": "8 reps each leg, 8 sec hold (15 lb assistance)",
+  "advanced": "8-12 reps each leg, 10 sec hold (15 lb assistance)"
+}

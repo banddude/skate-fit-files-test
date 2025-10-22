@@ -1,0 +1,22 @@
+{
+  "id": "weighted_lunges",
+  "move": "Weighted Lunges",
+  "description": "Forward or walking lunges with dumbbells.",
+  "detailed_description": "This fundamental single-leg strengthening exercise targets the quadriceps, glutes, and hamstrings while challenging balance and single-side stability essential for skateboarding performance. Begin standing with dumbbells held at your sides or in front rack position, then step forward into a lunge by lowering your back knee toward the ground while keeping your front knee aligned over your ankle. The front thigh should reach parallel to the ground if mobility allows, creating ninety-degree angles at both knees. Drive through the front heel to return to standing, then repeat on the opposite side or continue walking forward. This exercise directly translates to improved single-leg strength and stability needed for skateboarding maneuvers like pushing, landing tricks on one foot, and maintaining balance during uneven weight distribution. The added resistance challenges the muscles more than bodyweight alone while the single-side nature addresses strength imbalances common from skateboarding's asymmetrical demands. Focus on maintaining upright torso posture and controlled descent to maximize the strength and stability benefits.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "dumbbells",
+  "target_muscles": [
+    "quadriceps",
+    "glutes",
+    "hamstrings",
+    "core"
+  ],
+  "video_file": "weighted_lunges",
+  "json_file": "weighted_lunges.json",
+  "duration_per_rep": "3-4 seconds",
+  "skateboarding_benefit": "builds single-leg strength for pushing and landing stability",
+  "beginner": "8 reps/side (light DBs)",
+  "intermediate": "10 reps/side (moderate DBs)",
+  "advanced": "12 reps/side (heavier DBs)"
+}

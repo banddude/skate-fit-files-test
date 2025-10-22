@@ -1,0 +1,22 @@
+{
+  "id": "banded_crab_squat_leaps",
+  "move": "Banded crab squat leaps",
+  "description": "Lateral squat jumps with band resistance, mimicking slalom movements for agility and lateral explosive power",
+  "detailed_description": "This advanced lateral power exercise develops the side-to-side explosive strength and agility essential for skateboard carving, obstacle navigation, and complex trick sequences. Begin in a squat position with a resistance band around your thighs, then perform explosive lateral jumps from side to side while maintaining the squat depth throughout the movement. The continuous lateral movement pattern mimics the slalom-like motions used in skateboarding for carving, avoiding obstacles, and maintaining speed through technical sections. The band resistance challenges your hip abductors and glutes while the explosive jumping component builds the reactive strength needed for quick directional changes. This exercise is particularly beneficial for street skating where rapid lateral movements and agility are crucial for navigating technical spots and maintaining flow through complex terrain. The sustained squat position also builds the leg endurance needed for long skating sessions and technical manual sequences. Focus on explosive lateral drive while maintaining consistent squat depth and band tension throughout the entire set.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "resistance band",
+  "target_muscles": [
+    "hip abductors",
+    "glutes",
+    "quadriceps",
+    "core"
+  ],
+  "video_file": "banded_crab_squat_leaps",
+  "json_file": "banded_crab_squat_leaps.json",
+  "duration_per_rep": "explosive lateral jump with squat hold",
+  "skateboarding_benefit": "develops lateral agility and explosive power for carving and obstacle navigation",
+  "beginner": "15 total jumps (2 rounds)",
+  "intermediate": "18 total jumps (2 rounds)",
+  "advanced": "20 total jumps (3 rounds)"
+}

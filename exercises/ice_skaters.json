@@ -1,0 +1,23 @@
+{
+  "id": "ice_skaters",
+  "move": "Ice skaters",
+  "description": "Lateral jumping movement that mimics the pumping motion used in skateparks and transitions",
+  "detailed_description": "This dynamic explosive jumping exercise targets lateral power, single-leg stability, and the pumping mechanics essential for generating speed and momentum in transition skateboarding. Begin standing on one leg, then explosively jump laterally to land on the opposite leg while swinging your arms for momentum and balance. The movement mimics the side-to-side pumping motion used to generate speed in bowls, ramps, and transitions. Land softly on the outside leg with knee slightly bent, then immediately prepare for the next jump in the opposite direction. This exercise develops the lateral power and single-leg landing control crucial for transition skating while building the cardio fitness needed for sustained skateboarding sessions. The rapid lateral movements also improve agility and reaction time that transfer to better board control during dynamic skateboarding scenarios. Ice skaters specifically train the muscle coordination patterns needed for pumping, carving, and maintaining momentum in skateparks. Focus on explosive takeoffs, soft landings, and maintaining balance throughout each lateral bound for maximum benefit.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "none",
+  "target_muscles": [
+    "glutes",
+    "quadriceps",
+    "calves",
+    "hip abductors",
+    "core"
+  ],
+  "video_file": "ice_skaters",
+  "json_file": "ice_skaters.json",
+  "duration_per_rep": "explosive takeoff, soft 2-second landing",
+  "skateboarding_benefit": "mimics pumping motion for generating speed in transitions and bowls",
+  "beginner": "10 jumps each side",
+  "intermediate": "12 jumps each side",
+  "advanced": "15 jumps each side"
+}

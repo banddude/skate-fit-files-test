@@ -1,0 +1,22 @@
+{
+  "id": "pigeon_bridges",
+  "move": "Pigeon bridges",
+  "description": "Figure-four/pigeon position through one hip while bridging the hips up.",
+  "detailed_description": "This advanced mobility exercise combines hip flexor stretching with glute turning on, specifically targeting the deep hip rotators and deep hip muscles muscle that can become tight from skateboarding's asymmetrical stance patterns. Begin lying on your back, then cross one ankle over the opposite knee in a figure-four position, creating turning your leg outward through the hip. From this position, drive your hips up into a bridge while maintaining the crossed-leg position, feeling a deep stretch through the outer hip and glutes of the crossed leg. The bridging motion simultaneously activates the glutes of the supporting leg while stretching the hip rotators of the crossed leg. This movement is particularly beneficial for skateboarders who develop tightness and imbalances from consistently riding in the same stance, as it addresses both mobility restrictions and strength imbalances that can affect board control and increase injury risk. Progress slowly and avoid forcing the range of motion, allowing the tissues to gradually adapt to the combined stretch and strengthening demands.",
+  "section": "Warm-up",
+  "exercise_type": "mobility",
+  "equipment": "none",
+  "target_muscles": [
+    "glutes",
+    "hip rotators",
+    "hip flexors",
+    "core"
+  ],
+  "video_file": "pigeon_bridges",
+  "json_file": "pigeon_bridges.json",
+  "duration_per_rep": "3-4 seconds",
+  "skateboarding_benefit": "addresses stance imbalances and improves hip mobility for better board control",
+  "beginner": "8\u201310 reps each side (1 round)",
+  "intermediate": "10\u201312 reps each side (2 rounds)",
+  "advanced": "12\u201315 reps each side (2 rounds)"
+}

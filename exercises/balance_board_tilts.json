@@ -1,0 +1,22 @@
+{
+  "id": "balance_board_tilts",
+  "move": "Balance board tilts",
+  "description": "Rock side-to-side on balance board to develop proprioception and board control skills",
+  "detailed_description": "This skateboard-specific balance training exercise develops lateral stability, body awareness awareness, and the subtle weight shift control essential for advanced skateboarding performance. Begin standing on a balance board with feet positioned similarly to your skateboard stance, then initiate controlled side-to-side tilting movements by shifting your weight from rail to rail. The unstable surface forces constant micro-adjustments from your ankle, knee, and hip muscles while training the balance reactions needed for skateboard control. This exercise directly transfers to improved board control, especially for carving, pumping transitions, and maintaining balance during challenging skating scenarios. The tilting motion specifically trains the lateral weight shift patterns used in skateboarding while building confidence and control on unstable surfaces. Balance board training also enhances body awareness feedback and reaction time, leading to quicker balance recovery and reduced fall risk during skating. Focus on smooth, controlled tilts rather than aggressive movements, gradually increasing the range of motion as your balance and control improve. This develops the subtle balance skills needed for advanced skateboarding progression.",
+  "section": "Main",
+  "exercise_type": "balance",
+  "equipment": "balance board",
+  "target_muscles": [
+    "ankle stabilizers",
+    "core",
+    "hip stabilizers",
+    "proprioceptors"
+  ],
+  "video_file": "balance_board_tilts",
+  "json_file": "balance_board_tilts.json",
+  "duration_per_rep": "2-3 seconds per tilt",
+  "skateboarding_benefit": "develops skateboard-specific balance and weight shift control",
+  "beginner": "10 tilts each direction",
+  "intermediate": "12 tilts each direction",
+  "advanced": "15 tilts each direction"
+}

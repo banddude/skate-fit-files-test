@@ -1,0 +1,21 @@
+{
+  "id": "lateral_banded_walk",
+  "move": "Lateral banded walk",
+  "description": "Place the band just above your knees, sink into a shallow squat, and shuffle side-to-side keeping tension",
+  "detailed_description": "This exercise specifically targets the outer glute muscles, smaller outer glute muscles, and outer hip muscles that are crucial for lateral stability and board control during skateboarding. Begin with a resistance band positioned just above your knees, then sink into a partial squat position with feet hip-width apart and core engaged. Maintain constant tension in the band as you step laterally, leading with the outside leg while keeping both knees tracking over your toes. The trailing leg should resist the inward pull of the band, creating working together of the hip muscles. This movement pattern directly translates to improved lateral balance and control when carving, transitioning between rails, or maintaining stability during side-to-side weight shifts on the skateboard. Keep your torso upright and avoid allowing the knees to cave inward, as proper knee tracking is essential for injury prevention and optimal performance.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "resistance band",
+  "target_muscles": [
+    "hip abductors",
+    "glutes",
+    "quadriceps"
+  ],
+  "video_file": "lateral_banded_walk",
+  "json_file": "lateral_banded_walk.json",
+  "duration_per_rep": "2-3 seconds per step",
+  "skateboarding_benefit": "improves lateral stability for carving and board control",
+  "beginner": "12 steps each way (light band)",
+  "intermediate": "15 steps each way (medium band)",
+  "advanced": "20 steps each way (heavy band)"
+}

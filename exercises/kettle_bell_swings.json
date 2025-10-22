@@ -1,0 +1,21 @@
+{
+  "id": "kettle_bell_swings",
+  "move": "Kettle Bell swings",
+  "description": "Hip-hinge drive to swing a kettlebell to chest height.",
+  "detailed_description": "This explosive back muscles exercise targets the glutes, hamstrings, and core while developing the pushing your hips forward power and timing essential for skateboarding performance. Begin standing with feet slightly wider than hip-width apart and a kettlebell positioned between your legs. Hinge at the hips by pushing your glutes back while maintaining a neutral spine, then explosively drive your hips forward to swing the kettlebell up to chest height. The power should come entirely from the hip thrust, not from lifting with your arms - your arms simply guide the kettlebell's path. Allow the kettlebell to swing back down between your legs as you hinge at the hips again, maintaining control throughout the descent. This exercise directly develops the explosive pushing your hips forward power needed for ollies, jumping, and generating speed through pumping motions in transition skateboarding. The hip hinge pattern also reinforces proper movement mechanics that protect the lower back during dynamic activities. Focus on timing the hip drive to create a smooth, powerful swing and maintain core engagement throughout to protect your spine.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "kettlebell",
+  "target_muscles": [
+    "glutes",
+    "hamstrings",
+    "core"
+  ],
+  "video_file": "kettle_bell_swings",
+  "json_file": "kettle_bell_swings.json",
+  "duration_per_rep": "1-2 seconds per swing",
+  "skateboarding_benefit": "builds explosive hip power for ollies and pumping motions",
+  "beginner": "12 reps (light KB)",
+  "intermediate": "15\u201320 reps (moderate KB)",
+  "advanced": "20\u201325 reps (heavier KB)"
+}

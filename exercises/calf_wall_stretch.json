@@ -1,0 +1,20 @@
+{
+  "id": "calf_wall_stretch",
+  "move": "Calf wall stretch",
+  "description": "Stand facing a wall, place ball of one foot on it, heel on ground, then lean hips forward to stretch calf",
+  "detailed_description": "This effective static stretch targets the calf muscles of the calf complex, which often become tight from the constant push-off demands of skateboarding. Stand facing a wall at arm's length, then place the ball of one foot against the wall with your heel firmly planted on the ground. Keep the stretching leg straight and slowly lean your hips forward toward the wall, maintaining the heel contact with the ground throughout the movement. You should feel a strong stretch through the back of your calf and into your Achilles tendon. This stretch is particularly important for skateboarders as tight calves can limit ankle mobility, affecting stance depth and push-off efficiency. The wall provides stable support and allows for consistent pressure application. Focus on breathing deeply and avoid bouncing, as the tissues respond better to sustained, gentle pressure that allows for gradual lengthening.",
+  "section": "Cool-down",
+  "exercise_type": "stretch",
+  "equipment": "wall",
+  "target_muscles": [
+    "calves",
+    "achilles tendon"
+  ],
+  "video_file": "calf_wall_stretch",
+  "json_file": "calf_wall_stretch.json",
+  "duration_per_rep": "hold 15-45 seconds",
+  "skateboarding_benefit": "improves ankle mobility for better stance depth and push-off power",
+  "beginner": "Hold 15 s/side",
+  "intermediate": "Hold 30 s/side",
+  "advanced": "Hold 45 s/side"
+}

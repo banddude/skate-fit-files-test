@@ -1,0 +1,22 @@
+{
+  "id": "jump_squats",
+  "move": "Jump squats",
+  "description": "Explosive bodyweight squat jumps with overhead reach, building maximum vertical power for skateboarding air",
+  "detailed_description": "This fundamental explosive exercise develops the maximum vertical power essential for high ollies, stair gaps, and transition air. Begin in a squat position with feet hip-width apart, then explosively drive through your heels and jump as high as possible while reaching overhead for maximum height. Land softly in the squat position and immediately prepare for the next repetition. This exercise builds the fast-twitch muscle fibers and explosive coordination needed for powerful skateboard launches and big air maneuvers. The overhead reach component teaches full-body extension and helps develop the complete kinetic chain activation needed for maximum jumping power. Jump squats directly translate to improved ollie height, gap clearing ability, and the explosive power needed for transition skating and vert tricks. The rapid stretch-shortening cycle developed through this exercise improves the reactive strength essential for quick trick execution and powerful board pops. Focus on maximum explosive effort on each jump while maintaining proper landing mechanics to build both power and injury resilience.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "none",
+  "target_muscles": [
+    "quadriceps",
+    "glutes",
+    "calves",
+    "core"
+  ],
+  "video_file": "jump_squats",
+  "json_file": "jump_squats.json",
+  "duration_per_rep": "explosive jump with soft landing",
+  "skateboarding_benefit": "maximizes vertical power for high ollies and transition air",
+  "beginner": "12 reps (2 rounds)",
+  "intermediate": "15 reps (2 rounds)",
+  "advanced": "15-20 reps (3 rounds)"
+}

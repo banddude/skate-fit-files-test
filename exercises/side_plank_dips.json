@@ -1,0 +1,21 @@
+{
+  "id": "side_plank_dips",
+  "move": "Side plank dips",
+  "description": "From side plank, lower hips toward floor and lift back to neutral.",
+  "detailed_description": "This dynamic core strengthening exercise targets the lower back muscles, side ab muscles, and deep balance muscles while building lateral spine stability essential for skateboarding balance and control. Begin in a side plank position with your elbow directly under your shoulder and your body forming a straight line from head to feet. Lower your hips toward the floor in a controlled motion, maintaining the straight line alignment, then lift back up to the neutral side plank position. The movement challenges your lateral core muscles to control both the lowering lowering and lifting lifting phases. This exercise directly translates to improved lateral balance control needed for skateboarding maneuvers that involve leaning or shifting weight to one side, such as carving, rail slides, and maintaining balance during uneven terrain navigation. The lateral strength also helps prevent lower back injuries common in activities requiring repeated spine rotation and lateral flexion. Focus on maintaining proper shoulder alignment and avoid allowing your hips to rotate or twist during the movement - the motion should occur purely in the frontal plane.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "none",
+  "target_muscles": [
+    "obliques",
+    "core",
+    "shoulders"
+  ],
+  "video_file": "side_plank_dips",
+  "json_file": "side_plank_dips.json",
+  "duration_per_rep": "2-3 seconds per dip",
+  "skateboarding_benefit": "builds lateral core stability for carving and rail slides",
+  "beginner": "10 reps each side",
+  "intermediate": "12\u201315 reps each side",
+  "advanced": "15\u201320 reps each side"
+}

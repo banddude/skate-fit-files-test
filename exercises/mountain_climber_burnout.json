@@ -1,0 +1,22 @@
+{
+  "id": "mountain_climber_burnout",
+  "move": "Mountain climber burnout",
+  "description": "High-intensity mountain climbers for maximum cardiovascular and core conditioning to finish the session",
+  "detailed_description": "This high-intensity finishing exercise provides maximum cardiovascular challenge while building the core endurance and mental toughness needed for peak skateboarding performance. Begin in a high plank position and perform rapid alternating knee drives toward your chest, maintaining maximum intensity for the prescribed time period. This exercise serves as both a cardiovascular challenge and a mental toughness builder, simulating the high-intensity demands of skateboarding sessions where peak performance must be maintained even under fatigue. The rapid knee drive movement builds the hip flexor strength and firing rate essential for quick trick execution, while the sustained high intensity improves the cardiovascular fitness needed for long skating sessions or competition runs. The mountain climber movement pattern also reinforces the core stability and shoulder strength needed for various skateboarding positions and recovery movements. This burnout exercise teaches your body to maintain explosive power output even as fatigue sets in, which is crucial for skateboarding where the most challenging tricks often come at the end of sessions when fatigue is highest. Focus on maintaining maximum intensity and proper form throughout the entire time period for optimal training adaptation.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "none",
+  "target_muscles": [
+    "core",
+    "hip flexors",
+    "shoulders",
+    "cardiovascular system"
+  ],
+  "video_file": "mountain_climber_burnout",
+  "json_file": "mountain_climber_burnout.json",
+  "duration_per_rep": "maximum intensity for time",
+  "skateboarding_benefit": "builds peak cardiovascular fitness and mental toughness for high-intensity skateboarding performance",
+  "beginner": "20 seconds all out (1 round)",
+  "intermediate": "25 seconds all out (1 round)",
+  "advanced": "30 seconds all out (1 round)"
+}

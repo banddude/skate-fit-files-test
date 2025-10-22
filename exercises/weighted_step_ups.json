@@ -1,0 +1,22 @@
+{
+  "id": "weighted_step_ups",
+  "move": "Weighted step ups",
+  "description": "Elevated step ups with dumbbells, building single-leg power and strength for powerful push-offs and trick landings",
+  "detailed_description": "This functional strength exercise develops the single-leg power and stability essential for skateboarding push-offs, stair navigation, and powerful trick landings. Begin facing a sturdy elevated surface (box or bench) while holding dumbbells, then step up by driving through the heel of the elevated leg without assistance from the trailing leg. The weighted resistance increases the strength challenge while the elevated surface requires the full range of motion strength needed for powerful skateboarding movements. This exercise directly translates to improved pushing power, the ability to generate speed from a standstill, and the single-leg strength needed for landing tricks on uneven surfaces or obstacles. The step-up pattern also builds the hip extension strength crucial for explosive ollies and the single-leg stability needed for manual tricks and technical balance challenges. The added weight forces the muscles to work harder while maintaining proper movement patterns, building both strength and movement quality. Focus on driving through the heel of the working leg and maintaining control throughout the entire range of motion to maximize the functional strength benefits.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "dumbbells, box or bench",
+  "target_muscles": [
+    "quadriceps",
+    "glutes",
+    "calves",
+    "core"
+  ],
+  "video_file": "weighted_step_ups",
+  "json_file": "weighted_step_ups.json",
+  "duration_per_rep": "controlled up, controlled down",
+  "skateboarding_benefit": "builds single-leg power for push-offs and trick landings",
+  "beginner": "8 each leg (15 lb weights)",
+  "intermediate": "10 each leg (20 lb weights)",
+  "advanced": "10-20 each leg (30 lb weights)"
+}

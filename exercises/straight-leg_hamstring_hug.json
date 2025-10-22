@@ -1,0 +1,21 @@
+{
+  "id": "straight-leg_hamstring_hug",
+  "move": "Straight-leg hamstring hug",
+  "description": "Lie on your back, extend one leg straight up, grab behind your thigh just below the knee crease, flex toes, pull",
+  "detailed_description": "This static stretching exercise targets hamstring flexibility and back muscles mobility while promoting relaxation and recovery after intense physical activity. Begin lying on your back with both legs extended, then slowly lift one leg straight toward the ceiling, keeping the knee locked and foot actively flexed. Grasp behind the thigh just below the knee crease with both hands, avoiding direct pressure on the knee joint itself. Gently pull the leg toward your chest while maintaining the straight-leg position and keeping the opposite leg pressed firmly into the floor. This stretch directly addresses hamstring tightness common in skateboarders from the crouched skating position and helps restore normal hip and knee range of motion. The active foot flexion also provides a gentle stretch to the calf muscles and bottom of your foot, addressing the full back muscles that works hard during skateboarding sessions.",
+  "section": "Cool-down",
+  "exercise_type": "stretch",
+  "equipment": "none",
+  "target_muscles": [
+    "hamstrings",
+    "calves",
+    "lower back"
+  ],
+  "video_file": "straight_leg_hamstring_hug",
+  "json_file": "straight_leg_hamstring_hug.json",
+  "duration_per_rep": "hold 15-45 seconds",
+  "skateboarding_benefit": "restores hamstring flexibility after crouched skating position",
+  "beginner": "Hold 15 s/side",
+  "intermediate": "Hold 30 s/side",
+  "advanced": "Hold 45 s/side"
+}

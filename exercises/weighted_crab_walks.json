@@ -1,0 +1,22 @@
+{
+  "id": "weighted_crab_walks",
+  "move": "Weighted Crab Walks",
+  "description": "Reverse tabletop position; crawl forward/back while holding light weights.",
+  "detailed_description": "This unique full-body exercise targets back muscles strength, core stability, and coordination while adding resistance training to challenge the muscles in a novel movement pattern. Begin in a reverse tabletop position with hands planted behind you, knees bent, and hips lifted to create a straight line from knees to shoulders while holding light dumbbells. Maintain this elevated position and walk forward and backward by alternating hand and foot movements, keeping the hips elevated throughout. The added weight increases the challenge to your shoulders, triceps, and core while the walking motion develops coordination and proprioception. This exercise is particularly beneficial for skateboarders as it strengthens the back muscles muscles often neglected by forward-facing activities while building the core and shoulder stability needed for inverted or unusual body positions sometimes encountered in skateboarding. The reverse movement pattern also helps balance out the forward-dominant postures common in daily life and skateboarding stances. Focus on maintaining hip elevation and smooth, controlled movements rather than speed.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "dumbbells",
+  "target_muscles": [
+    "triceps",
+    "shoulders",
+    "glutes",
+    "core"
+  ],
+  "video_file": "weighted_crab_walks",
+  "json_file": "weighted_crab_walks.json",
+  "duration_per_rep": "2-3 seconds per step",
+  "skateboarding_benefit": "strengthens posterior chain and improves core stability for better balance",
+  "beginner": "10 steps forward + 10 back (light)",
+  "intermediate": "12 steps forward + 12 back (moderate)",
+  "advanced": "15 steps forward + 15 back (heavy)"
+}

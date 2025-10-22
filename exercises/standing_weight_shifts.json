@@ -1,0 +1,22 @@
+{
+  "id": "standing_weight_shifts",
+  "move": "Standing weight shifts",
+  "description": "Shift weight from one foot to the other in skateboarding stance to prepare for balance and transitions",
+  "detailed_description": "This skateboard-specific warm-up exercise mimics the weight transfer patterns fundamental to board control while activating the body awareness system and balance muscles. Begin in a skateboarding stance with feet positioned as you would on a board, then slowly shift your weight from one foot to the other while maintaining balance and control. Focus on feeling the weight distribution change and the subtle muscle turning ons required to maintain stability during the transfer. This exercise directly prepares your muscle coordination system for the constant weight shifts required in skateboarding, including pumping for speed, carving turns, and preparing for tricks. The movement also activates the ankle stabilizers, outer hip muscles, and core muscles that work together to maintain balance during dynamic skateboarding movements. Regular practice of weight shifts improves body awareness and balance reactions that are essential for progressing in skateboarding and preventing falls. Keep the movements slow and controlled to maximize the body awareness benefits and focus on smooth, fluid weight transfers rather than abrupt shifts.",
+  "section": "Warm-up",
+  "exercise_type": "balance",
+  "equipment": "none",
+  "target_muscles": [
+    "ankle stabilizers",
+    "hip abductors",
+    "core",
+    "proprioceptors"
+  ],
+  "video_file": "standing_weight_shifts",
+  "json_file": "standing_weight_shifts.json",
+  "duration_per_rep": "2-3 seconds per shift",
+  "skateboarding_benefit": "develops weight transfer skills essential for pumping and carving",
+  "beginner": "10 shifts each way",
+  "intermediate": "12 shifts each way",
+  "advanced": "15 shifts each way"
+}

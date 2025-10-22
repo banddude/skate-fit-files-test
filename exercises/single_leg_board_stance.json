@@ -1,0 +1,22 @@
+{
+  "id": "single_leg_board_stance",
+  "move": "Single leg board stance",
+  "description": "Practice single-leg balance on a balance board to mimic skateboard control and stability",
+  "detailed_description": "This advanced balance training exercise specifically targets single-leg stability and body awareness awareness using an unstable surface that closely mimics skateboard control demands. Begin standing on a balance board or wobble board with both feet, then carefully lift one leg while maintaining balance on the unstable surface. The balance board creates constant perturbations that challenge your ankle, knee, and hip muscles while forcing rapid muscle coordination adjustments similar to those required during skateboarding. This exercise directly transfers to improved board control, especially for manuals, single-leg tricks, and maintaining balance during challenging skateboarding scenarios. The unstable surface trains your balance system to make quick, precise adjustments that are essential for skateboarding progression and injury prevention. Single-leg training on an unstable surface is particularly beneficial as it addresses the single-side demands of skateboarding while challenging the balance system in a skateboard-specific way. Focus on maintaining steady posture and making small, controlled adjustments rather than large corrections, as this develops the subtle balance control needed for advanced skateboarding.",
+  "section": "Main",
+  "exercise_type": "balance",
+  "equipment": "balance board",
+  "target_muscles": [
+    "single-leg stability muscles",
+    "core",
+    "ankle stabilizers",
+    "proprioceptors"
+  ],
+  "video_file": "single_leg_board_stance",
+  "json_file": "single_leg_board_stance.json",
+  "duration_per_rep": "hold for 20-45 seconds",
+  "skateboarding_benefit": "directly mimics skateboard balance and improves board control precision",
+  "beginner": "20 seconds each leg",
+  "intermediate": "30 seconds each leg",
+  "advanced": "45 seconds each leg"
+}

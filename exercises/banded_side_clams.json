@@ -1,0 +1,21 @@
+{
+  "id": "banded_side_clams",
+  "move": "Banded Side clams",
+  "description": "Side-lying, knees bent; open top knee without rolling hips.",
+  "detailed_description": "This targeted hip strengthening exercise isolates the outer glute muscles and deep hip rotators while adding resistance training to develop the lateral hip stability essential for skateboarding control and injury prevention. Begin lying on your side with knees bent at approximately ninety degrees and a resistance band positioned around your thighs just above the knees. Keep your feet together and maintain straight back position while lifting the top knee away from the bottom knee against the band resistance. The key is to initiate the movement from the hip without allowing the pelvis to roll backward or the torso to twist. This exercise specifically targets the often-neglected outer hip muscles that are crucial for maintaining proper knee alignment and lateral stability during skateboarding. Weak outer hip muscles can lead to knee pain, poor balance control, and increased injury risk during dynamic skateboarding movements. The side-lying position eliminates compensation patterns and allows for focused strengthening of these important stabilizer muscles. Focus on controlled movement quality over speed, and maintain the pelvis in a neutral position throughout the exercise to maximize the targeted muscle turning on.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "resistance band",
+  "target_muscles": [
+    "hip abductors",
+    "glutes",
+    "deep hip rotators"
+  ],
+  "video_file": "banded_side_clams",
+  "json_file": "banded_side_clams.json",
+  "duration_per_rep": "2-3 seconds up, 1 second hold, 2 seconds down",
+  "skateboarding_benefit": "strengthens lateral hip stability for better board control and knee protection",
+  "beginner": "12 reps each side",
+  "intermediate": "15 reps each side",
+  "advanced": "20 reps each side"
+}

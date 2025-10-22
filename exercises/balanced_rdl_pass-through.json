@@ -1,0 +1,22 @@
+{
+  "id": "balanced_rdl_pass-through",
+  "move": "Balanced RDL pass-through",
+  "description": "Hinge on one leg, lower your torso and pass a dumbbell under the lifted leg, then stand back up",
+  "detailed_description": "This advanced functional exercise combines single-leg Romanian deadlift mechanics with dynamic coordination challenges that directly improve skateboarding balance and core stability. Begin standing on one leg while holding a dumbbell in the opposite hand, then hinge at the hip to lower your torso while extending the free leg behind you for counterbalance. At the bottom position, pass the dumbbell under the elevated leg to the other hand, then reverse the movement to return to standing. This exercise targets the back muscles including hamstrings and glutes while challenging proprioception and inter-limb coordination essential for complex skateboarding maneuvers. The movement mimics the dynamic balance adjustments required when navigating obstacles or performing tricks that require shifting weight and maintaining control in unstable positions. Focus on maintaining a straight line from your head to the elevated heel and control the dumbbell throughout the entire range of motion to maximize stability benefits.",
+  "section": "Main",
+  "exercise_type": "balance",
+  "equipment": "dumbbells",
+  "target_muscles": [
+    "hamstrings",
+    "glutes",
+    "core",
+    "single-leg stability muscles"
+  ],
+  "video_file": "balanced_rdl_pass_through",
+  "json_file": "balanced_rdl_pass_through.json",
+  "duration_per_rep": "4-6 seconds per rep",
+  "skateboarding_benefit": "enhances dynamic balance and coordination for complex maneuvers",
+  "beginner": "6 reps/side (5 lb dumbbell)",
+  "intermediate": "8 reps/side (10 lb dumbbell)",
+  "advanced": "10 reps/side (15 lb dumbbell)"
+}

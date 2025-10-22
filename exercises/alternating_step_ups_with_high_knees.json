@@ -1,0 +1,22 @@
+{
+  "id": "alternating_step_ups_with_high_knees",
+  "move": "Alternating step ups with high knees",
+  "description": "Dynamic step ups with knee drive, building cardiovascular fitness and explosive leg power for sustained skateboarding performance",
+  "detailed_description": "This dynamic cardiovascular exercise combines step-up strength with explosive knee drive, developing both the muscular power and cardiovascular fitness needed for intense skateboarding sessions. Begin facing an elevated surface, then alternate stepping up with each leg while adding an explosive knee drive at the top of each step-up before stepping down. The alternating pattern with high knee component builds the rhythm and coordination essential for complex trick sequences while providing an intense cardiovascular challenge that improves skateboarding endurance. This exercise develops the explosive leg drive needed for consecutive tricks and the cardiovascular fitness required for long skating sessions or competition runs. The high knee drive component specifically targets the hip flexors and core muscles crucial for board manipulation and trick execution. The timed nature of this exercise builds the ability to maintain explosive power output even as fatigue sets in, which is essential for skateboarding where trick execution often occurs at the end of long runs or sessions. Focus on maintaining explosive knee drive and consistent rhythm throughout the time period to maximize both power and cardiovascular benefits.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "box or bench",
+  "target_muscles": [
+    "quadriceps",
+    "hip flexors",
+    "glutes",
+    "cardiovascular system"
+  ],
+  "video_file": "alternating_step_ups_high_knees",
+  "json_file": "alternating_step_ups_high_knees.json",
+  "duration_per_rep": "30 second intervals",
+  "skateboarding_benefit": "builds cardiovascular fitness and explosive power for sustained high-intensity skating",
+  "beginner": "20 seconds (2 rounds)",
+  "intermediate": "25 seconds (2 rounds)",
+  "advanced": "30 seconds (3 rounds)"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ankle_rocks",
+  "move": "Ankle rocks",
+  "description": "Rock forward and backward on your toes and heels to activate ankle mobility for skateboarding stance",
+  "detailed_description": "This dynamic ankle mobility exercise targets pulling your toes up toward your shins and pointing your toes down range of motion while activating the calf and shin muscles essential for skateboarding stance control and landing mechanics. Begin standing with feet hip-width apart and slowly rock forward onto your toes, lifting your heels as high as possible while maintaining balance. Hold briefly at the top position, then rock backward onto your heels, lifting your toes as high as possible toward your shins. This alternating movement pattern mobilizes the ankle joint through its primary motion planes while activating both the posterior muscles (calves) and anterior muscles (shins) that control ankle movement. For skateboarders, this exercise is crucial for preparing the ankles for the demands of board control, where subtle ankle adjustments are constantly needed for balance and trick execution. The rocking motion also improves body awareness awareness and prepares the muscle coordination system for the rapid balance corrections required during skating. Focus on controlled movement through the full range of motion and maintain steady balance throughout the exercise.",
+  "section": "Warm-up",
+  "exercise_type": "mobility",
+  "equipment": "none",
+  "target_muscles": [
+    "calves",
+    "shins",
+    "ankle stabilizers"
+  ],
+  "video_file": "ankle_rocks",
+  "json_file": "ankle_rocks.json",
+  "duration_per_rep": "2-3 seconds hold at each position",
+  "skateboarding_benefit": "prepares ankles for board control and balance adjustments",
+  "beginner": "10 rocks forward/back",
+  "intermediate": "12 rocks forward/back",
+  "advanced": "15 rocks forward/back"
+}

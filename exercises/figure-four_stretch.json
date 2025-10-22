@@ -1,0 +1,21 @@
+{
+  "id": "figure-four_stretch",
+  "move": "Figure-four stretch",
+  "description": "Lie on your back, cross one ankle over the opposite thigh, then pull the uncrossed leg toward your chest",
+  "detailed_description": "This comprehensive hip stretch targets the deep hip muscles, outer glute muscles, and deep hip rotator muscles that can become tight and imbalanced from skateboarding's asymmetrical stance patterns. Begin lying on your back with both knees bent and feet flat on the floor. Cross one ankle over the opposite thigh just above the knee, creating a figure-four shape with your legs. Reach through the gap between your legs and grasp behind the thigh of the uncrossed leg, then gently pull both legs toward your chest. This position creates a deep stretch through the outer hip, glutes, and deep hip muscles of the crossed leg while also addressing hip flexor mobility. The stretch is particularly beneficial for skateboarders who develop tightness from consistently riding in the same stance, helping restore balanced hip mobility and reducing the risk of lower back pain and hip dysfunction. Maintain steady breathing and avoid forcing the stretch, allowing gravity and gentle pressure to gradually increase the range of motion.",
+  "section": "Cool-down",
+  "exercise_type": "stretch",
+  "equipment": "none",
+  "target_muscles": [
+    "glutes",
+    "hip rotators",
+    "hip flexors"
+  ],
+  "video_file": "figure_four_stretch",
+  "json_file": "figure_four_stretch.json",
+  "duration_per_rep": "hold 15-45 seconds",
+  "skateboarding_benefit": "restores hip balance from asymmetrical skating stance",
+  "beginner": "Hold 15 s/side",
+  "intermediate": "Hold 30 s/side",
+  "advanced": "Hold 45 s/side"
+}

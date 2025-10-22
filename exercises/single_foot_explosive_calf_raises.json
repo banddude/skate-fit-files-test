@@ -1,0 +1,21 @@
+{
+  "id": "single_foot_explosive_calf_raises",
+  "move": "Single foot explosive calf raises",
+  "description": "Fast, explosive single-leg calf raises developing the precise pop power needed for consistent ollie execution",
+  "detailed_description": "This highly specific exercise targets the explosive calf strength and single-leg stability essential for powerful and consistent skateboard pops. Begin standing on one leg with the option to use a wall or table for light balance assistance, then perform rapid, explosive calf raises focusing on maximum speed and height. The single-leg nature isolates each calf independently, ensuring balanced development and addressing any strength discrepancies that could affect trick consistency. This exercise directly develops the explosive ankle plantar flexion that initiates every ollie and provides the snap needed for flip tricks and technical maneuvers. The fast, repetitive nature builds the muscle firing rate and coordination essential for rapid trick execution and the ability to perform multiple tricks in quick succession. Single-leg training also improves the balance and proprioception needed for single-foot maneuvers and complex balance challenges common in street and transition skating. Focus on explosive upward movement while maintaining balance and control, using minimal assistance from your hands to maximize the balance and strength benefits.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "wall or table for balance assistance",
+  "target_muscles": [
+    "calves",
+    "ankle stabilizers",
+    "single-leg stability muscles"
+  ],
+  "video_file": "single_foot_explosive_calf_raises",
+  "json_file": "single_foot_explosive_calf_raises.json",
+  "duration_per_rep": "explosive upward, controlled descent",
+  "skateboarding_benefit": "develops explosive pop power and single-leg stability for consistent trick execution",
+  "beginner": "10 each leg (2 rounds)",
+  "intermediate": "12 each leg (2 rounds)",
+  "advanced": "15 each leg (3 rounds)"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kneeling_ins_and_outs",
+  "move": "Kneeling ins and outs",
+  "description": "From a kneeling position, step one leg out to the side and back in to open hips (stretches quads, hamstrings, hips, outer glute muscles).",
+  "detailed_description": "This dynamic mobility exercise targets hip flexor flexibility, outer glute muscles turning on, and multiple directions hip movement essential for skateboarding transitions and board control. Begin in a tall kneeling position with both knees on the ground and torso upright, engaging your core for stability. Step one leg out laterally into a side lunge position, allowing the hip to open and stretch while maintaining balance on the opposite knee. Return to the starting kneeling position with control, feeling the turning on through your outer hip muscles and quadriceps. This movement directly improves the hip mobility needed for deep skateboarding stances, carving motions, and the lateral weight shifts required during technical maneuvers. The exercise also enhances body awareness awareness and single-leg stability that transfers to improved board control and injury prevention during skating sessions.",
+  "section": "Warm-up",
+  "exercise_type": "mobility",
+  "equipment": "none",
+  "target_muscles": [
+    "hip flexors",
+    "hip abductors",
+    "quadriceps",
+    "core"
+  ],
+  "video_file": "kneeling_ins_and_outs",
+  "json_file": "kneeling_ins_and_outs.json",
+  "duration_per_rep": "3-4 seconds",
+  "skateboarding_benefit": "improves hip mobility for deeper stances and lateral movements",
+  "beginner": "10 reps each side (1 round)",
+  "intermediate": "10\u201312 reps each side (2 rounds)",
+  "advanced": "12\u201315 reps each side (2 rounds)"
+}

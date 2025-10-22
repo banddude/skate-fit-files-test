@@ -1,0 +1,22 @@
+{
+  "id": "single_leg_bounds",
+  "move": "Single leg bounds",
+  "description": "Explosive single-leg hops to build power and stability for skateboarding landings and ollies",
+  "detailed_description": "This explosive jumping exercise develops single-leg power, landing mechanics, and the explosive strength needed for skateboarding tricks like ollies, jumps, and technical maneuvers. Begin standing on one leg with good posture and core engagement, then explosively hop forward, focusing on maximum distance while maintaining balance and control. Land softly on the same leg with knee bent to absorb impact, then immediately prepare for the next bound. This exercise specifically trains the single-side power and landing control essential for skateboarding, where many movements require explosive single-leg actions and stable landings. The bounding motion develops the fast-twitch muscle fibers and muscle coordination coordination needed for powerful skateboarding movements while improving proprioception and balance reactions. Single-leg bounds also strengthen the entire your whole body from ankle to hip, addressing the stability and strength imbalances common from skateboarding's asymmetrical demands. Focus on quality over quantity - each bound should be explosive and controlled with proper landing mechanics to maximize the training benefits and reduce injury risk.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "none",
+  "target_muscles": [
+    "glutes",
+    "quadriceps",
+    "calves",
+    "single-leg stability muscles"
+  ],
+  "video_file": "single_leg_bounds",
+  "json_file": "single_leg_bounds.json",
+  "duration_per_rep": "explosive takeoff, 2-second landing",
+  "skateboarding_benefit": "develops explosive power for ollies and single-leg landing control",
+  "beginner": "6 bounds each leg",
+  "intermediate": "8 bounds each leg",
+  "advanced": "10 bounds each leg"
+}

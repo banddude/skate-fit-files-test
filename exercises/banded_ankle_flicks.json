@@ -1,0 +1,21 @@
+{
+  "id": "banded_ankle_flicks",
+  "move": "Banded ankle flicks",
+  "description": "Loop a band around one foot, tap the foot forward/back or in/out against band tension to fire up stabilizers",
+  "detailed_description": "This dynamic turning on exercise targets the small ankle muscles, ankle muscles essential for proprioception and injury prevention. Begin with a resistance band looped around the forefoot or mid-foot area, securing the other end to a stable anchor point. From a seated or standing position, perform quick, controlled movements in all four directions - pulling your toes up toward your shins pulling the toes toward you, pointing your toes down pointing away, turning your foot inward turning the sole inward, and turning your foot outward turning it outward. The resistance challenges the small intrinsic muscles that provide fine motor control and stability during skateboarding. These muscles are critical for making subtle adjustments on the board, absorbing impact during landings, and preventing ankle sprains. Focus on crisp, precise movements rather than large range of motion, as this exercise is about muscle coordination turning on and preparing the ankle complex for more demanding activities.",
+  "section": "Warm-up",
+  "exercise_type": "mobility",
+  "equipment": "resistance band",
+  "target_muscles": [
+    "ankle stabilizers",
+    "foot muscles",
+    "lower leg muscles"
+  ],
+  "video_file": "banded_ankle_flicks",
+  "json_file": "banded_ankle_flicks.json",
+  "duration_per_rep": "1 second per flick",
+  "skateboarding_benefit": "prevents ankle sprains and improves board control precision",
+  "beginner": "10 each direction/foot (1 round)",
+  "intermediate": "10 each direction/foot (2 rounds)",
+  "advanced": "12 each direction/foot (2 rounds)"
+}

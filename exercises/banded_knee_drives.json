@@ -1,0 +1,21 @@
+{
+  "id": "banded_knee_drives",
+  "move": "Banded knee drives",
+  "description": "Loop the band around the balls of your feet, stand tall, and drive one knee up to hip height against band tension",
+  "detailed_description": "This dynamic strength and coordination exercise targets the front hip muscles, core muscles, and ankle balance sensors while challenging balance and muscle coordination control. Begin standing with a resistance band looped around the balls of both feet, maintaining good posture with shoulders back and core engaged. Drive one knee up explosively to hip height while resisting the downward pull of the band, then control the descent back to the starting position. The standing leg must work to maintain stability against the band's resistance, while the lifting leg develops powerful bringing your knee up essential for skateboarding movements like ollies and manual pads. This exercise directly improves the ability to generate quick, controlled leg movements while maintaining balance on the skateboard. Focus on maintaining proper alignment throughout the movement and resist the tendency to lean or compensate with upper body movement.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "resistance band",
+  "target_muscles": [
+    "hip flexors",
+    "core",
+    "single-leg stability muscles"
+  ],
+  "video_file": "banded_knee_drives",
+  "json_file": "banded_knee_drives.json",
+  "duration_per_rep": "2 seconds up, 2 seconds down",
+  "skateboarding_benefit": "builds explosive power for ollies and board manipulation",
+  "beginner": "6 reps/side (light band)",
+  "intermediate": "8 reps/side (medium band)",
+  "advanced": "10 reps/side (heavy band)"
+}

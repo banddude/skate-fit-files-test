@@ -1,0 +1,22 @@
+{
+  "id": "mountain_climber_plank_hold_with_leg_kickbacks",
+  "move": "Mountain climber plank hold with leg kickbacks",
+  "description": "Plank hold with alternating leg extensions, building core endurance and hip strength for board control",
+  "detailed_description": "This core-intensive exercise combines plank stability with dynamic leg movement, developing the core endurance and hip strength essential for maintaining skateboard control during complex maneuvers. Begin in a high plank position with hands directly under shoulders, then alternate lifting each leg straight back behind you while maintaining the strong plank position throughout. The static plank hold challenges core endurance while the leg kickbacks target the glutes and hamstrings crucial for powerful skateboarding movements. This exercise builds the core stability needed to maintain proper posture and control during technical skateboarding sequences where the core must resist rotational forces and maintain spinal alignment. The alternating leg movement also develops the hip extension strength and single-leg stability needed for powerful ollies and the ability to maintain board control during uneven weight distribution. The combination movement improves coordination and the ability to maintain core stability while performing dynamic movements with the extremities. Focus on maintaining perfect plank alignment while performing controlled leg extensions to maximize both core and hip strengthening benefits.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "none",
+  "target_muscles": [
+    "core",
+    "glutes",
+    "shoulders",
+    "hip stabilizers"
+  ],
+  "video_file": "mountain_climber_plank_hold_leg_kickbacks",
+  "json_file": "mountain_climber_plank_hold_leg_kickbacks.json",
+  "duration_per_rep": "controlled leg extension and return",
+  "skateboarding_benefit": "builds core endurance and hip strength for sustained board control during technical maneuvers",
+  "beginner": "15 total reps (2 rounds)",
+  "intermediate": "18 total reps (2 rounds)",
+  "advanced": "20 total reps (3 rounds)"
+}

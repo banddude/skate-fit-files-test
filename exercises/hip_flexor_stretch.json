@@ -1,0 +1,21 @@
+{
+  "id": "hip_flexor_stretch",
+  "move": "Hip flexor stretch",
+  "description": "Lunge position stretch to open tight front hip muscles from crouched skateboarding positions",
+  "detailed_description": "This essential post-skate stretch targets the hip flexor muscles that often become tight and shortened from skateboarding's characteristic crouched stance and repetitive bringing your knee up movements. Begin in a lunge position with one foot forward and the other leg extended behind you, then lower your hips toward the ground while keeping your torso upright and core engaged. You should feel a strong stretch through the front of the hip and thigh of the back leg. This stretch is crucial for skateboarders as prolonged hip flexor tightness can lead to lower back pain, altered movement patterns, and reduced skateboarding performance. The crouched skateboarding position places the front hip muscles in a shortened position for extended periods, making this stretch essential for maintaining optimal hip mobility and preventing compensatory movement patterns. Hip flexor tightness can also affect your ability to achieve proper skateboarding stances and limit the range of motion needed for advanced tricks. Focus on maintaining an upright torso position and avoid arching your lower back excessively, as proper alignment maximizes the stretch effectiveness and prevents lower back strain.",
+  "section": "Cool-down",
+  "exercise_type": "stretch",
+  "equipment": "none",
+  "target_muscles": [
+    "hip flexors",
+    "quadriceps",
+    "core"
+  ],
+  "video_file": "hip_flexor_stretch",
+  "json_file": "hip_flexor_stretch.json",
+  "duration_per_rep": "hold 20-45 seconds",
+  "skateboarding_benefit": "releases hip flexor tightness from crouched skating stance",
+  "beginner": "Hold 20 s/side",
+  "intermediate": "Hold 30 s/side",
+  "advanced": "Hold 45 s/side"
+}

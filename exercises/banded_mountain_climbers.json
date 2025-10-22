@@ -1,0 +1,22 @@
+{
+  "id": "banded_mountain_climbers",
+  "move": "Banded mountain climbers",
+  "description": "High-plank knee drives with band around feet or ankles.",
+  "detailed_description": "This high-intensity core and cardio exercise combines plank stability with dynamic bringing your knee up while adding resistance training to challenge the entire your whole body. Begin in a high plank position with hands directly under shoulders and a resistance band around your feet or ankles. Maintain the plank position while alternately driving your knees toward your chest, fighting against the band resistance throughout the movement. The band adds significant challenge to both the knee drive phase and the return to extended position, while the plank hold demands constant core turning on and shoulder stability. This exercise directly improves the core endurance and hip flexor strength needed for skateboarding tricks involving knee drive and board manipulation, such as ollies, kickflips, and manual variations. The dynamic nature also builds cardio fitness and muscle coordination coordination essential for sustained skateboarding performance. Focus on maintaining a strong plank position throughout - avoid allowing your hips to pike up or sag down as fatigue sets in. Control both the forward and backward phases of each knee drive for maximum benefit.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "resistance band",
+  "target_muscles": [
+    "core",
+    "hip flexors",
+    "shoulders",
+    "cardiovascular system"
+  ],
+  "video_file": "banded_mountain_climbers",
+  "json_file": "banded_mountain_climbers.json",
+  "duration_per_rep": "1 second per knee drive",
+  "skateboarding_benefit": "builds core endurance and hip flexor power for ollies and board manipulation",
+  "beginner": "20 total (light band)",
+  "intermediate": "30 total (medium band)",
+  "advanced": "40 total (heavy band)"
+}

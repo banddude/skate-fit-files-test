@@ -1,0 +1,21 @@
+{
+  "id": "banded_side_leg_raise",
+  "move": "Banded side leg raise",
+  "description": "With band above ankles, stand tall and lift one leg straight out to the side, keeping hips level",
+  "detailed_description": "This targeted moving your leg out to the side exercise strengthens the outer glute muscles and outer hip muscles while improving single-leg stability essential for skateboarding control and injury prevention. Position a resistance band around both ankles and stand tall with feet hip-width apart, engaging your core and maintaining straight back position. Lift one leg straight out to the side against the band resistance while keeping both hips level and avoiding any tilting or bad movement patterns in the torso. The standing leg must work to maintain stability while the lifting leg develops the lateral strength needed for board control during turns, carves, and lateral weight shifts. This exercise directly addresses the hip abductor strength often lacking in skateboarders, which can lead to knee injuries and poor board control. Focus on controlled movement both up and down, resisting the band's pull throughout the entire range of motion to maximize muscle turning on and stability benefits.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "resistance band",
+  "target_muscles": [
+    "hip abductors",
+    "glutes",
+    "single-leg stability muscles"
+  ],
+  "video_file": "banded_side_leg_raise",
+  "json_file": "banded_side_leg_raise.json",
+  "duration_per_rep": "2-3 seconds up, 2 seconds down",
+  "skateboarding_benefit": "strengthens lateral stability for turns and carves",
+  "beginner": "10 reps/side (light band)",
+  "intermediate": "12 reps/side (medium band)",
+  "advanced": "15 reps/side (heavy band)"
+}

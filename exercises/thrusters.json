@@ -1,0 +1,22 @@
+{
+  "id": "thrusters",
+  "move": "Thrusters",
+  "description": "Dumbbell front squat into an overhead press.",
+  "detailed_description": "This compound full-body exercise combines lower body strength with upper body power and core stability, making it highly functional for skateboarding performance. Begin standing with dumbbells held at shoulder height in front rack position, feet hip-width apart with toes slightly turned out. Descend into a deep squat by pushing your hips back and down while keeping your chest up and core engaged. Drive explosively through your heels to stand up, using the momentum to press the dumbbells overhead in one fluid motion. Lower the weights back to shoulder height with control before beginning the next repetition. This exercise develops the explosive hip and leg power needed for ollies and jumping while building shoulder stability and core strength essential for balance and control during skateboarding. The combination movement also improves coordination and teaches efficient force transfer from the lower body through the core to the upper body, directly translating to more powerful and controlled skateboarding movements.",
+  "section": "Main",
+  "exercise_type": "strength",
+  "equipment": "dumbbells",
+  "target_muscles": [
+    "quadriceps",
+    "glutes",
+    "shoulders",
+    "core"
+  ],
+  "video_file": "thrusters",
+  "json_file": "thrusters.json",
+  "duration_per_rep": "3-4 seconds",
+  "skateboarding_benefit": "develops explosive power for ollies and full-body coordination",
+  "beginner": "8 reps (light DBs)",
+  "intermediate": "10 reps (moderate DBs)",
+  "advanced": "12 reps (heavy DBs)"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "heel_floor_bridges",
+  "move": "Heel floor bridges",
+  "description": "Lie on back, heels on floor, drive hips up by squeezing glutes.",
+  "detailed_description": "This variation of the glute bridge emphasizes back muscles turning on while improving ankle pulling your toes up toward your shins mobility crucial for proper skateboarding stance and push-off mechanics. Begin lying on your back with only your heels in contact with the floor, toes pulled up toward your shins to create an active stretch through your calves. Drive your hips up by powerfully contracting your glutes and hamstrings, creating a straight line from knees to shoulders at the top position. The heel-only contact increases the challenge to your back muscles while simultaneously stretching the bottom of your foot and calf muscles that often become tight from skateboarding. This exercise directly improves the pushing your hips forward power needed for explosive skateboarding movements like ollies and vert wall rides, while addressing the ankle mobility restrictions that can limit skateboarding stance depth and board control. Focus on maintaining the toe-up position throughout the movement to maximize the mobility benefits.",
+  "section": "Warm-up",
+  "exercise_type": "strength",
+  "equipment": "none",
+  "target_muscles": [
+    "glutes",
+    "hamstrings",
+    "calves",
+    "ankle stabilizers"
+  ],
+  "video_file": "heel_floor_bridges",
+  "json_file": "heel_floor_bridges.json",
+  "duration_per_rep": "2-3 seconds",
+  "skateboarding_benefit": "builds explosive power for ollies while improving ankle mobility",
+  "beginner": "12 reps (1 round)",
+  "intermediate": "12\u201315 reps (2 rounds)",
+  "advanced": "15\u201320 reps (2 rounds)"
+}
