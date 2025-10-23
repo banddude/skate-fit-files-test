@@ -7,49 +7,57 @@
       "exercise_id": "thrusters",
       "beginner": "8 reps (light DBs)",
       "intermediate": "10 reps (moderate DBs)",
-      "advanced": "12 reps (heavy DBs)"
+      "advanced": "12 reps (heavy DBs)",
+      "section": "Main"
     },
     {
       "exercise_id": "squat_hold_and_pulses",
       "beginner": "20 s hold + 10 pulses",
       "intermediate": "30 s hold + 15 pulses",
-      "advanced": "45 s hold + 20 pulses"
+      "advanced": "45 s hold + 20 pulses",
+      "section": "Main"
     },
     {
       "exercise_id": "weighted_crab_walks",
       "beginner": "10 steps forward + 10 back (light)",
       "intermediate": "12 steps forward + 12 back (moderate)",
-      "advanced": "15 steps forward + 15 back (heavy)"
+      "advanced": "15 steps forward + 15 back (heavy)",
+      "section": "Main"
     },
     {
       "exercise_id": "weighted_lunges",
       "beginner": "8 reps/side (light DBs)",
       "intermediate": "10 reps/side (moderate DBs)",
-      "advanced": "12 reps/side (heavier DBs)"
+      "advanced": "12 reps/side (heavier DBs)",
+      "section": "Main"
     },
     {
       "exercise_id": "weighted_step_ups",
       "beginner": "8 reps/side (box below knee)",
       "intermediate": "10 reps/side (box at knee)",
-      "advanced": "12 reps/side (box at/above knee)"
+      "advanced": "12 reps/side (box at/above knee)",
+      "section": "Main"
     },
     {
       "exercise_id": "weighted_side_2_side_abductors",
       "beginner": "10 reps/side (light load)",
       "intermediate": "12 reps/side (moderate load)",
-      "advanced": "15 reps/side (heavier load)"
+      "advanced": "15 reps/side (heavier load)",
+      "section": "Main"
     },
     {
       "exercise_id": "1_foot_balance_weight_press",
       "beginner": "8 reps/side (2×5–10 lb)",
       "intermediate": "10 reps/side (2×10–15 lb)",
-      "advanced": "12 reps/side (2×15–20 lb)"
+      "advanced": "12 reps/side (2×15–20 lb)",
+      "section": "Main"
     },
     {
       "exercise_id": "kettle_bell_swings",
       "beginner": "12 reps (light KB)",
       "intermediate": "15–20 reps (moderate KB)",
-      "advanced": "20–25 reps (heavier KB)"
+      "advanced": "20–25 reps (heavier KB)",
+      "section": "Main"
     }
   ]
 }
