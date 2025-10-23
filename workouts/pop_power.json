@@ -1,0 +1,73 @@
+{
+  "name": "Pop Power",
+  "icon": "bolt.fill",
+  "color": "yellow",
+  "exercises": [
+    {
+      "exercise_id": "squat_+_calf_raise_hold",
+      "beginner": "10 sec hold (2 rounds)",
+      "intermediate": "12 sec hold (2 rounds)",
+      "advanced": "15 sec hold (3 rounds)"
+    },
+    {
+      "exercise_id": "banded_side_jumps",
+      "beginner": "15 total jumps (2 rounds)",
+      "intermediate": "18 total jumps (2 rounds)",
+      "advanced": "20 total jumps (3 rounds)"
+    },
+    {
+      "exercise_id": "isolated_foot_banded_hi-knee_pop-ups",
+      "beginner": "10 each side (2 rounds)",
+      "intermediate": "12 each side (2 rounds)",
+      "advanced": "15 each side (3 rounds)"
+    },
+    {
+      "exercise_id": "jump_squats",
+      "beginner": "12 reps (2 rounds)",
+      "intermediate": "15 reps (2 rounds)",
+      "advanced": "15-20 reps (3 rounds)"
+    },
+    {
+      "exercise_id": "banded_crab_squat_leaps",
+      "beginner": "15 total jumps (2 rounds)",
+      "intermediate": "18 total jumps (2 rounds)",
+      "advanced": "20 total jumps (3 rounds)"
+    },
+    {
+      "exercise_id": "single_foot_explosive_calf_raises",
+      "beginner": "10 each leg (2 rounds)",
+      "intermediate": "12 each leg (2 rounds)",
+      "advanced": "15 each leg (3 rounds)"
+    },
+    {
+      "exercise_id": "weighted_step_ups",
+      "beginner": "8 each leg (15 lb weights)",
+      "intermediate": "10 each leg (20 lb weights)",
+      "advanced": "10-20 each leg (30 lb weights)"
+    },
+    {
+      "exercise_id": "alternating_step_ups_with_high_knees",
+      "beginner": "20 seconds (2 rounds)",
+      "intermediate": "25 seconds (2 rounds)",
+      "advanced": "30 seconds (3 rounds)"
+    },
+    {
+      "exercise_id": "isometric_single_foot_squat_holds",
+      "beginner": "6 reps each leg, 6 sec hold (10 lb assistance)",
+      "intermediate": "8 reps each leg, 8 sec hold (15 lb assistance)",
+      "advanced": "8-12 reps each leg, 10 sec hold (15 lb assistance)"
+    },
+    {
+      "exercise_id": "mountain_climber_plank_hold_with_leg_kickbacks",
+      "beginner": "15 total reps (2 rounds)",
+      "intermediate": "18 total reps (2 rounds)",
+      "advanced": "20 total reps (3 rounds)"
+    },
+    {
+      "exercise_id": "mountain_climber_burnout",
+      "beginner": "20 seconds all out (1 round)",
+      "intermediate": "25 seconds all out (1 round)",
+      "advanced": "30 seconds all out (1 round)"
+    }
+  ]
+}
