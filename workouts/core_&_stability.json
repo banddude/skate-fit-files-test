@@ -35,6 +35,13 @@
       "exercise_id" : "sitting_bench_pigeon_and_knee_hugs",
       "intermediate" : "Hold 30 s\/side",
       "section" : "Main"
+    },
+    {
+      "advanced" : "12 each direction\/foot (2 rounds)",
+      "beginner" : "10 each direction\/foot (1 round)",
+      "exercise_id" : "ankle_circles",
+      "intermediate" : "10 each direction\/foot (2 rounds)",
+      "section" : "Warm-up"
     }
   ],
   "icon" : "figure.core.training",
