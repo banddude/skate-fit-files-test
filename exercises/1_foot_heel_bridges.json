@@ -1,22 +1,21 @@
 {
-  "id": "1_foot_heel_bridges",
-  "move": "1 foot heel bridges",
-  "description": "Single-leg glute bridge with heel down and opposite leg lifted.",
-  "detailed_description": "This advanced single-leg bridge variation challenges single-side hip stability while improving calf and ankle mobility through the heel-only contact pattern essential for skateboarding performance. Begin lying on your back with one heel planted on the floor and toes pulled up toward your shin, while the opposite leg is lifted and held straight in the air. Drive through the planted heel to lift your hips, creating a straight line from your knee to your shoulder while maintaining the lifted leg position. This exercise targets main glute muscles strength and endurance on the working side while challenging core stability and hip flexor flexibility on the lifted side. The heel-only contact enhances ankle pulling your toes up toward your shins mobility and activates the back muscles muscles crucial for powerful skateboarding movements. This movement pattern directly translates to improved single-leg stability and strength needed for one-footed skateboarding maneuvers, manual variations, and the single-side balance challenges common in street and transition skating. Focus on preventing hip rotation or dropping, maintaining level hips throughout the movement while emphasizing quality muscle turning on over speed.",
-  "section": "Warm-up",
-  "exercise_type": "strength",
-  "equipment": "none",
-  "target_muscles": [
+  "advanced" : "12–15 reps each side (2 rounds)",
+  "beginner" : "8–10 reps each side (1 round)",
+  "description" : "Single-leg glute bridge with heel down and opposite leg lifted.",
+  "detailed_description" : "This advanced single-leg bridge variation challenges single-side hip stability while improving calf and ankle mobility through the heel-only contact pattern essential for skateboarding performance. Begin lying on your back with one heel planted on the floor and toes pulled up toward your shin, while the opposite leg is lifted and held straight in the air. Drive through the planted heel to lift your hips, creating a straight line from your knee to your shoulder while maintaining the lifted leg position. This exercise targets main glute muscles strength and endurance on the working side while challenging core stability and hip flexor flexibility on the lifted side. The heel-only contact enhances ankle pulling your toes up toward your shins mobility and activates the back muscles muscles crucial for powerful skateboarding movements. This movement pattern directly translates to improved single-leg stability and strength needed for one-footed skateboarding maneuvers, manual variations, and the single-side balance challenges common in street and transition skating. Focus on preventing hip rotation or dropping, maintaining level hips throughout the movement while emphasizing quality muscle turning on over speed.",
+  "duration_per_rep" : "2-3 seconds",
+  "equipment" : "none",
+  "exercise_type" : "strength",
+  "id" : "1_foot_heel_bridges",
+  "intermediate" : "10–12 reps each side (2 rounds)",
+  "json_file" : "1_foot_heel_bridges.json",
+  "move" : "1 foot heel bridges",
+  "skateboarding_benefit" : "builds single-leg power and stability for manuals and one-footed tricks",
+  "target_muscles" : [
     "glutes",
     "hamstrings",
     "core",
     "calves"
   ],
-  "video_file": "1_foot_heel_bridges",
-  "json_file": "1_foot_heel_bridges.json",
-  "duration_per_rep": "2-3 seconds",
-  "skateboarding_benefit": "builds single-leg power and stability for manuals and one-footed tricks",
-  "beginner": "8\u201310 reps each side (1 round)",
-  "intermediate": "10\u201312 reps each side (2 rounds)",
-  "advanced": "12\u201315 reps each side (2 rounds)"
+  "video_file" : "video_1761179626.mp4"
 }
