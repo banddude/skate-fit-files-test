@@ -7,43 +7,50 @@
       "exercise_id": "calf_wall_stretch",
       "beginner": "Hold 20 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Cool-down"
     },
     {
       "exercise_id": "calf_and_ankle_stretch",
       "beginner": "Hold 20 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Cool-down"
     },
     {
       "exercise_id": "hip_flexor_stretch",
       "beginner": "Hold 20 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Cool-down"
     },
     {
       "exercise_id": "standing_crossed-leg_hamstring",
       "beginner": "Hold 20 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Cool-down"
     },
     {
       "exercise_id": "flamingo_stretch",
       "beginner": "Hold 20 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Cool-down"
     },
     {
       "exercise_id": "figure-four_stretch",
       "beginner": "Hold 20 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Cool-down"
     },
     {
       "exercise_id": "ankle_circles",
       "beginner": "6 circles each direction/foot",
       "intermediate": "8 circles each direction/foot",
-      "advanced": "10 circles each direction/foot"
+      "advanced": "10 circles each direction/foot",
+      "section": "Cool-down"
     }
   ]
 }
