@@ -43,7 +43,7 @@
       "beginner": "10 each direction/foot (1 round)",
       "intermediate": "10 each direction/foot (2 rounds)",
       "advanced": "12 each direction/foot (2 rounds)",
-      "section": "Main"
+      "section": "Warm-up"
     },
     {
       "exercise_id": "banded_knee_drives",
@@ -85,7 +85,7 @@
       "beginner": "Hold 15 s/side",
       "intermediate": "Hold 30 s/side",
       "advanced": "Hold 45 s/side",
-      "section": "Main"
+      "section": "Cool-down"
     },
     {
       "exercise_id": "calf_wall_stretch",
@@ -106,7 +106,7 @@
       "beginner": "Hold 15 s/side",
       "intermediate": "Hold 30 s/side",
       "advanced": "Hold 45 s/side",
-      "section": "Main"
+      "section": "Cool-down"
     }
   ]
 }
