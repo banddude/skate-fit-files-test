@@ -7,61 +7,71 @@
       "exercise_id": "ankle_circles",
       "beginner": "8 each direction/foot",
       "intermediate": "10 each direction/foot",
-      "advanced": "12 each direction/foot"
+      "advanced": "12 each direction/foot",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "ankle_rocks",
       "beginner": "10 rocks forward/back",
       "intermediate": "12 rocks forward/back",
-      "advanced": "15 rocks forward/back"
+      "advanced": "15 rocks forward/back",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "standing_weight_shifts",
       "beginner": "10 shifts each way",
       "intermediate": "12 shifts each way",
-      "advanced": "15 shifts each way"
+      "advanced": "15 shifts each way",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "knee_hug_turns",
       "beginner": "6 reps each side",
       "intermediate": "8 reps each side",
-      "advanced": "10 reps each side"
+      "advanced": "10 reps each side",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "single_leg_board_stance",
       "beginner": "20 seconds each leg",
       "intermediate": "30 seconds each leg",
-      "advanced": "45 seconds each leg"
+      "advanced": "45 seconds each leg",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "ice_skaters",
       "beginner": "10 jumps each side",
       "intermediate": "12 jumps each side",
-      "advanced": "15 jumps each side"
+      "advanced": "15 jumps each side",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "single_leg_bounds",
       "beginner": "6 bounds each leg",
       "intermediate": "8 bounds each leg",
-      "advanced": "10 bounds each leg"
+      "advanced": "10 bounds each leg",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "lateral_banded_walk",
       "beginner": "10 steps each way",
       "intermediate": "12 steps each way",
-      "advanced": "15 steps each way"
+      "advanced": "15 steps each way",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "calf_raises",
       "beginner": "12 reps",
       "intermediate": "15 reps",
-      "advanced": "20 reps"
+      "advanced": "20 reps",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "balance_board_tilts",
       "beginner": "10 tilts each direction",
       "intermediate": "12 tilts each direction",
-      "advanced": "15 tilts each direction"
+      "advanced": "15 tilts each direction",
+      "section": "Warm-up"
     }
   ]
 }
