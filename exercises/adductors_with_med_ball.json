@@ -1,21 +1,25 @@
 {
-  "id": "adductors_with_med_ball",
-  "move": "Adductors with med ball",
-  "description": "Supine or seated, squeeze a medicine ball between knees.",
-  "detailed_description": "This holding position strengthening exercise targets the hip adductor muscles while building inner thigh strength and stability crucial for skateboard control and proper lower body alignment. Begin in a seated or supine position with a medicine ball positioned between your knees, maintaining good posture with your spine in neutral alignment. Squeeze the ball firmly with your inner thighs, holding the squeeze for the prescribed time or performing rhythmic squeezes. The adductor muscles work to bring the legs together and provide stability during single-leg activities and dynamic movements. For skateboarders, strong adductors help maintain proper knee alignment during tricks and landings, contribute to overall leg strength balance, and provide stability during narrow stance positions common in skateboarding. Weak adductors relative to the outer hip muscles can lead to knee pain and poor movement patterns. This exercise complements the moving your leg out to the side work by ensuring balanced strength development around the hip joint. Focus on maintaining consistent pressure against the ball and avoid holding your breath during sustained squeezes.",
-  "section": "Main",
-  "exercise_type": "strength",
-  "equipment": "medicine ball",
-  "target_muscles": [
+  "advanced" : "25–30 squeezes (heavier ball)",
+  "beginner" : "15 squeezes (light ball)",
+  "description" : "Supine or seated, squeeze a medicine ball between knees.",
+  "detailed_description" : "This holding position strengthening exercise targets the hip adductor muscles while building inner thigh strength and stability crucial for skateboard control and proper lower body alignment. Begin in a seated or supine position with a medicine ball positioned between your knees, maintaining good posture with your spine in neutral alignment. Squeeze the ball firmly with your inner thighs, holding the squeeze for the prescribed time or performing rhythmic squeezes. The adductor muscles work to bring the legs together and provide stability during single-leg activities and dynamic movements. For skateboarders, strong adductors help maintain proper knee alignment during tricks and landings, contribute to overall leg strength balance, and provide stability during narrow stance positions common in skateboarding. Weak adductors relative to the outer hip muscles can lead to knee pain and poor movement patterns. This exercise complements the moving your leg out to the side work by ensuring balanced strength development around the hip joint. Focus on maintaining consistent pressure against the ball and avoid holding your breath during sustained squeezes.",
+  "duration_per_rep" : "3-5 second squeeze",
+  "equipment" : [
+    "Medicine Ball",
+    "Mat"
+  ],
+  "exercise_type" : [
+    "strength"
+  ],
+  "id" : "adductors_with_med_ball",
+  "intermediate" : "20 squeezes (moderate ball)",
+  "json_file" : "adductors_with_med_ball.json",
+  "move" : "Adductors with med ball",
+  "skateboarding_benefit" : "balances hip strength and maintains knee alignment during narrow stance skating",
+  "target_muscles" : [
     "hip adductors",
     "inner thighs",
     "core"
   ],
-  "video_file": "adductors_with_med_ball",
-  "json_file": "adductors_with_med_ball.json",
-  "duration_per_rep": "3-5 second squeeze",
-  "skateboarding_benefit": "balances hip strength and maintains knee alignment during narrow stance skating",
-  "beginner": "15 squeezes (light ball)",
-  "intermediate": "20 squeezes (moderate ball)",
-  "advanced": "25\u201330 squeezes (heavier ball)"
+  "video_file" : "adductors_with_med_ball"
 }
