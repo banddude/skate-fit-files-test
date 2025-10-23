@@ -7,91 +7,106 @@
       "exercise_id": "lay-back_knee_hugs",
       "beginner": "10 reps each side (1 round)",
       "intermediate": "10 reps each side (2 rounds)",
-      "advanced": "12 reps each side (2 rounds)"
+      "advanced": "12 reps each side (2 rounds)",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "straight-leg_hugs",
       "beginner": "10 reps each side (1 round)",
       "intermediate": "10 reps each side (2 rounds)",
-      "advanced": "12 reps each side (2 rounds)"
+      "advanced": "12 reps each side (2 rounds)",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "glute_bridges",
       "beginner": "12 reps (1 round)",
       "intermediate": "12 reps (2 rounds)",
-      "advanced": "15 reps (2 rounds)"
+      "advanced": "15 reps (2 rounds)",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "banded_glute-bridge_abductors",
       "beginner": "15 reps (1 round)",
       "intermediate": "15 reps (2 rounds)",
-      "advanced": "20 reps (2 rounds)"
+      "advanced": "20 reps (2 rounds)",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "ankle_circles",
       "beginner": "10 each direction/foot (1 round)",
       "intermediate": "10 each direction/foot (2 rounds)",
-      "advanced": "12 each direction/foot (2 rounds)"
+      "advanced": "12 each direction/foot (2 rounds)",
+      "section": "Warm-up"
     },
     {
       "exercise_id": "banded_ankle_flicks",
       "beginner": "10 each direction/foot (1 round)",
       "intermediate": "10 each direction/foot (2 rounds)",
-      "advanced": "12 each direction/foot (2 rounds)"
+      "advanced": "12 each direction/foot (2 rounds)",
+      "section": "Main"
     },
     {
       "exercise_id": "banded_knee_drives",
       "beginner": "6 reps/side (light band)",
       "intermediate": "8 reps/side (medium band)",
-      "advanced": "10 reps/side (heavy band)"
+      "advanced": "10 reps/side (heavy band)",
+      "section": "Main"
     },
     {
       "exercise_id": "lateral_banded_walk",
       "beginner": "12 steps each way (light band)",
       "intermediate": "15 steps each way (medium band)",
-      "advanced": "20 steps each way (heavy band)"
+      "advanced": "20 steps each way (heavy band)",
+      "section": "Main"
     },
     {
       "exercise_id": "balanced_rdl_pass-through",
       "beginner": "6 reps/side (5 lb dumbbell)",
       "intermediate": "8 reps/side (10 lb dumbbell)",
-      "advanced": "10 reps/side (15 lb dumbbell)"
+      "advanced": "10 reps/side (15 lb dumbbell)",
+      "section": "Main"
     },
     {
       "exercise_id": "banded_side_leg_raise",
       "beginner": "10 reps/side (light band)",
       "intermediate": "12 reps/side (medium band)",
-      "advanced": "15 reps/side (heavy band)"
+      "advanced": "15 reps/side (heavy band)",
+      "section": "Main"
     },
     {
       "exercise_id": "weighted_single-leg_balance_hold",
       "beginner": "20 s/side (2×5 lb)",
       "intermediate": "30 s/side (2×10 lb)",
-      "advanced": "45 s/side (2×15 lb)"
+      "advanced": "45 s/side (2×15 lb)",
+      "section": "Main"
     },
     {
       "exercise_id": "straight-leg_hamstring_hug",
       "beginner": "Hold 15 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Main"
     },
     {
       "exercise_id": "calf_wall_stretch",
       "beginner": "Hold 15 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Cool-down"
     },
     {
       "exercise_id": "figure-four_stretch",
       "beginner": "Hold 15 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Cool-down"
     },
     {
       "exercise_id": "standing_crossed-leg_hamstring",
       "beginner": "Hold 15 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Main"
     }
   ]
 }
