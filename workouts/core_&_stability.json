@@ -1,49 +1,50 @@
 {
-  "color" : "teal",
-  "exercises" : [
+  "color": "teal",
+  "exercises": [
     {
-      "advanced" : "15–20 reps each side",
-      "beginner" : "10 reps each side",
-      "exercise_id" : "side_plank_dips",
-      "intermediate" : "12–15 reps each side",
-      "section" : "Main"
+      "advanced": "15–20 reps each side",
+      "beginner": "10 reps each side",
+      "exercise_id": "side_plank_dips",
+      "intermediate": "12–15 reps each side",
+      "section": "Main"
     },
     {
-      "advanced" : "40 total (heavy band)",
-      "beginner" : "20 total (light band)",
-      "exercise_id" : "banded_mountain_climbers",
-      "intermediate" : "30 total (medium band)",
-      "section" : "Main"
+      "advanced": "40 total (heavy band)",
+      "beginner": "20 total (light band)",
+      "exercise_id": "banded_mountain_climbers",
+      "intermediate": "30 total (medium band)",
+      "section": "Main"
     },
     {
-      "advanced" : "20 reps each side",
-      "beginner" : "12 reps each side",
-      "exercise_id" : "banded_side_clams",
-      "intermediate" : "15 reps each side",
-      "section" : "Main"
+      "advanced": "20 reps each side",
+      "beginner": "12 reps each side",
+      "exercise_id": "banded_side_clams",
+      "intermediate": "15 reps each side",
+      "section": "Main"
     },
     {
-      "advanced" : "25–30 squeezes (heavier ball)",
-      "beginner" : "15 squeezes (light ball)",
-      "exercise_id" : "adductors_with_med_ball",
-      "intermediate" : "20 squeezes (moderate ball)",
-      "section" : "Main"
+      "advanced": "25–30 squeezes (heavier ball)",
+      "beginner": "15 squeezes (light ball)",
+      "exercise_id": "adductors_with_med_ball",
+      "intermediate": "20 squeezes (moderate ball)",
+      "section": "Main"
     },
     {
-      "advanced" : "Hold 45 s\/side",
-      "beginner" : "Hold 20 s\/side",
-      "exercise_id" : "sitting_bench_pigeon_and_knee_hugs",
-      "intermediate" : "Hold 30 s\/side",
-      "section" : "Main"
+      "advanced": "Hold 45 s/side",
+      "beginner": "Hold 20 s/side",
+      "exercise_id": "sitting_bench_pigeon_and_knee_hugs",
+      "intermediate": "Hold 30 s/side",
+      "section": "Main"
     },
     {
-      "advanced" : "12–15 reps each side (2 rounds)",
-      "beginner" : "8–10 reps each side (1 round)",
-      "exercise_id" : "1_foot_heel_bridges",
-      "intermediate" : "10–12 reps each side (2 rounds)",
-      "section" : "Main"
+      "advanced": "12–15 reps each side (2 rounds)",
+      "beginner": "8–10 reps each side (1 round)",
+      "exercise_id": "1_foot_heel_bridges",
+      "intermediate": "10–12 reps each side (2 rounds)",
+      "section": "Main"
     }
   ],
-  "icon" : "figure.core.training",
-  "name" : "Core & Stability"
+  "icon": "figure.core.training",
+  "name": "Core & Stability",
+  "id": "99A5268F-166B-4E04-B1A0-02F2B5647569"
 }
