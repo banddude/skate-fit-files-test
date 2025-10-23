@@ -7,31 +7,36 @@
       "exercise_id": "side_plank_dips",
       "beginner": "10 reps each side",
       "intermediate": "12–15 reps each side",
-      "advanced": "15–20 reps each side"
+      "advanced": "15–20 reps each side",
+      "section": "Main"
     },
     {
       "exercise_id": "banded_mountain_climbers",
       "beginner": "20 total (light band)",
       "intermediate": "30 total (medium band)",
-      "advanced": "40 total (heavy band)"
+      "advanced": "40 total (heavy band)",
+      "section": "Main"
     },
     {
       "exercise_id": "banded_side_clams",
       "beginner": "12 reps each side",
       "intermediate": "15 reps each side",
-      "advanced": "20 reps each side"
+      "advanced": "20 reps each side",
+      "section": "Main"
     },
     {
       "exercise_id": "adductors_with_med_ball",
       "beginner": "15 squeezes (light ball)",
       "intermediate": "20 squeezes (moderate ball)",
-      "advanced": "25–30 squeezes (heavier ball)"
+      "advanced": "25–30 squeezes (heavier ball)",
+      "section": "Main"
     },
     {
       "exercise_id": "sitting_bench_pigeon_and_knee_hugs",
       "beginner": "Hold 20 s/side",
       "intermediate": "Hold 30 s/side",
-      "advanced": "Hold 45 s/side"
+      "advanced": "Hold 45 s/side",
+      "section": "Main"
     }
   ]
 }
